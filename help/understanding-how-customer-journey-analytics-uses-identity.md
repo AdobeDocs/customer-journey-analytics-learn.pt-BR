@@ -1,17 +1,18 @@
 ---
 title: Como o Customer Journey Analytics usa a identidade
-description: Este vídeo não é um mergulho técnico, mas uma visão prática de como a identidade afeta sua análise, incluindo uma análise das visualizações entre canais, possibilitadas pela costura de IDs de visitante.
+description: Este vídeo não é um mergulho técnico, mas uma visão prática de como a identidade afeta sua análise, incluindo uma análise das visualizações entre canais, possibilitadas pela identificação de IDs de visitantes.
 feature: customer journey analytics
 topics: topics
 audience: analyst, marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30750.jpg
 kt: 3955
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 8%
 
 ---
