@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com dados no Customer Journey Analytics
-description: Neste vídeo, você aprenderá como os schemas de conjunto de dados são traduzidos em variáveis no Adobe Customer Journey Analytics (CJA), bem como como o CJA lida com uma cardinalidade muito alta.
-feature: customer journey analytics
+description: Neste vídeo, você aprenderá como os esquemas de conjunto de dados são traduzidos em variáveis no Adobe Customer Journey Analytics (CJA), além de como o CJA lida com uma cardinalidade muito alta.
+feature: análise de jornada do cliente
 topics: null
 audience: administrator, analyst, marketer, architect
 activity: understand
@@ -12,15 +12,15 @@ kt: 3964
 translation-type: tm+mt
 source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 9%
+source-wordcount: '90'
+ht-degree: 40%
 
 ---
 
 
 # Trabalhar com dados no Customer Journey Analytics
 
-In this video, you will learn how [!UICONTROL dataset] [!UICONTROL schemas] are translated into variables in Customer Journey Analytics (CJA), as well as how CJA handles very high cardinality.
+Neste vídeo, você aprenderá como [!UICONTROL conjunto de dados] [!UICONTROL schemas] são traduzidos em variáveis no Customer Journey Analytics (CJA), bem como como o CJA lida com uma cardinalidade muito alta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 
