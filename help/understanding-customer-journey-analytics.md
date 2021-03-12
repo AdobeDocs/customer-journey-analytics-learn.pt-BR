@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 85%
+ht-degree: 90%
 
 ---
 
@@ -26,4 +26,4 @@ O Customer Journey Analytics (CJA) da Adobe é um serviço de aplicativos criado
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&enable10seconds=on&speedcontrol=on)
 
-Para obter mais informações, visite a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics-platform/using/cja-landing.html).
+Para obter mais informações, consulte a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics-platform/using/cja-landing.html).
