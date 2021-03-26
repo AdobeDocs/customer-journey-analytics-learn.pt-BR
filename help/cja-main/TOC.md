@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
@@ -26,7 +26,11 @@ ht-degree: 21%
 + [Criar visualizações entre canais](/help/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
 + [Atribuição entre canais](/help/cross-channel-attribution-in-customer-journey-analytics.md)
 + [Introdução às métricas calculadas no Customer Journey Analytics](/help/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-+ [Mova as métricas calculadas do Adobe Analytics para o Customer Journey Analytics](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
++ [Mover suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + [Introdução aos filtros](/help/introduction-to-filters-in-cja.md)
 + [Criar filtros entre canais](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Mover segmentos do Adobe Analytics para o Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Blueprints {#blueprints}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [Cenário de análise de Jornada de separação de chamadas](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
