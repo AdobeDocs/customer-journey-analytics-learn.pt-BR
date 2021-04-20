@@ -1,15 +1,15 @@
 ---
 title: Compreender como o Customer Journey Analytics usa a identidade
 description: Este vídeo não é um mergulho técnico, mas uma análise prática de como a identidade afeta sua análise no Adobe, incluindo uma análise das visualizações em vários canais possibilitadas pela compilação de IDs de visitantes.
-feature: Identidade
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Profissional de negócios
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

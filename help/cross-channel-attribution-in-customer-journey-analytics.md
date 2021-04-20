@@ -1,15 +1,15 @@
 ---
 title: Atribuição entre canais no Customer Journey Analytics
 description: Neste vídeo, mostraremos como você pode usar as visualizações para mostrar a atribuição (dar crédito) entre canais no Adobe Customer Journey Analytics.
-feature: Atribuição
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

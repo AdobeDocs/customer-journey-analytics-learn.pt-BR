@@ -1,15 +1,15 @@
 ---
 title: Criar visualizações entre canais no Customer Journey Analytics
 description: Neste vídeo, descubra como o Adobe Customer Journey Analytics permite criar visualizações que incluem dados de vários conjuntos de dados em vários canais, incluindo a mesclagem de dados por visitante.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

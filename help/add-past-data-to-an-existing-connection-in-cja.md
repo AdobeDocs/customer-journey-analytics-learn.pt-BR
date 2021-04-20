@@ -1,15 +1,15 @@
 ---
 title: Adicionar dados anteriores a uma conexão existente no Customer Journey Analytics
 description: Neste vídeo, saiba mais sobre como adicionar dados anteriores (dados que têm um carimbo de data e hora anterior associado a ele) à análise existente do Adobe Customer Journey Analytics por meio de conexões e visualizações de dados.
-feature: Conexões
+feature: Connections
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: '"Engenheiro de dados, arquiteto de dados"'
-level: Iniciante
+role: "Data Engineer, Data Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

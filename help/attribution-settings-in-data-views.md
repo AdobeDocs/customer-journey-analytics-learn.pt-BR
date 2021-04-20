@@ -1,15 +1,15 @@
 ---
 title: Configurações de atribuição em visualizações de dados no Customer Journey Analytics
 description: Ao definir Exibições de dados no Adobe Customer Journey Analytics, você pode escolher configurações de atribuição para controlar como as dimensões e métricas irão funcionar juntas. Este vídeo aborda os padrões, as opções e como as configurações de atribuição de métrica e dimensão interagem.
-feature: Visualizações de dados
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
-role: Administrador
-level: Iniciante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
