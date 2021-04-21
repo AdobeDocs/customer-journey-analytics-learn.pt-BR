@@ -1,31 +1,27 @@
 ---
 title: Configuração básica para visualizações de dados no Customer Journey Analytics
-description: Depois de criar uma conexão no Adobe Customer Journey Analytics com conjuntos de dados na Adobe Experience Platform, é necessário criar uma Exibição de dados para essa conexão, para que você possa usar os dados no Analysis Workspace na Platform. Este vídeo o orienta pela configuração básica de uma Exibição de dados.
-feature: Data Views
-topics: null
-activity: setup
+description: Depois de criar uma conexão no Adobe Customer Journey Analytics para conjuntos de dados no Adobe Experience Platform, é necessário criar uma Exibição de dados para essa conexão, para que você possa usar os dados no Analysis Workspace na plataforma. Este vídeo o orienta pela configuração básica de uma Exibição de dados.
+feature: Visualizações de dados
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
 role: Administrator
 level: Beginner
+exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 3%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
-
 # Configuração básica para [!UICONTROL Visualizações de dados] no Customer Journey Analytics
 
-Depois de criar uma [!UICONTROL conexão] no Customer Journey Analytics para [!UICONTROL conjuntos de dados] na Adobe Experience Platform, é necessário criar uma [!UICONTROL Exibição de dados] para essa [!UICONTROL Conexão], para que você possa usar os dados no Analysis Workspace na Platform. Este vídeo o orienta pela configuração básica de uma [!UICONTROL Exibição de dados].
+Depois de criar uma [!UICONTROL Connection] no Customer Journey Analytics para [!UICONTROL datasets] no Adobe Experience Platform, é necessário criar uma [!UICONTROL Data View] para essa [!UICONTROL Connection], para que você possa usar os dados no Analysis Workspace na plataforma. Este vídeo o orienta pela configuração básica de uma [!UICONTROL Exibição de dados].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30186/?quality=12&enable10seconds=on&speedcontrol=on)
 
 ## Recursos adicionais
 
-* [Configurações de atribuição em visualizações de dados](attribution-settings-in-data-views.md)
-* [Customer Journey Analytics - Documentação de visualizações de dados](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Documentação de visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
