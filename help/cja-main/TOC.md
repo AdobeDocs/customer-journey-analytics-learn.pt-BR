@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 22%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
@@ -20,10 +20,13 @@ ht-degree: 22%
 + [Trabalhar com dados](/help/working-with-data-in-cja.md)
 + [Conectar-se a fontes de dados na plataforma](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Configuração básica para visualizações de dados](/help/basic-configuration-for-data-views.md)
-+ [Definição das configurações de componente nas Visualizações de dados](/help/configuring-component-settings-in-data-views.md)
++ [Definir as configurações do componente nas Visualizações de dados](/help/configuring-component-settings-in-data-views.md)
++ [Configurações de tipo de componente em Visualizações de dados](/help/component-type-settings-in-data-views.md)
 + [Formatação de métricas em visualizações de dados](/help/formatting-metrics-in-data-views.md)
++ [Incluir ou excluir valores de métrica em Exibições de dados](/help/include-or-exclude-metric-values-in-data-views.md)
 + [Criação de compartimentos de valor em Visualizações de dados para análise](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Incluir ou excluir valores de dimensão em Exibições de dados](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [Configurar opções de Nenhum valor em Visualizações de dados](/help/configure-no-value-options-in-data-views.md)
 + [Configurações de atribuição em visualizações de dados](/help/attribution-settings-in-data-views.md)
 + [Como entender como o CJA usa a identidade](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Adicionar dados anteriores a uma conexão existente](/help/add-past-data-to-an-existing-connection-in-cja.md)
