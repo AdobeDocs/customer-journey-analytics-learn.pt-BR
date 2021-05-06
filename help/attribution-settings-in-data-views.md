@@ -1,31 +1,24 @@
 ---
-title: Configurações de atribuição em visualizações de dados no Customer Journey Analytics
-description: Ao definir Exibições de dados no Adobe Customer Journey Analytics, você pode escolher configurações de atribuição para controlar como as dimensões e métricas irão funcionar juntas. Este vídeo aborda os padrões, as opções e como as configurações de atribuição de métrica e dimensão interagem.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Configurações de atribuição em visualizações de dados
+description: Cada dimensão deve ter uma configuração de alocação (para decidir qual valor recebe crédito pela conversão) e uma configuração de expiração (quanto tempo o valor persiste), para que o sistema saiba como atribuir valor aos valores de dimensão. Da mesma forma, e trabalhando em conjunto, as métricas também devem ter um modelo de atribuição e uma janela de retrospectiva definidas. Este vídeo o orienta a definir essas configurações todas importantes.
+feature: Visualizações de dados
+topic: Administração
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
+#  Configurações de atribuição em Exibições  [!UICONTROL de dados]
 
-#  Configurações de atribuição nas  [!UICONTROL visualizações de ] dados no Customer Journey Analytics
-
-Ao definir [!UICONTROL Data Views] no Customer Journey Analytics, você pode escolher as configurações de [!UICONTROL atribuição] para controlar como as [!UICONTROL dimensões] e [!UICONTROL métricas] irão trabalhar em conjunto. Este vídeo aborda os padrões, as opções e como as configurações de [!UICONTROL metric] e [!UICONTROL dimension] [!UICONTROL atribuição] interagem.
+Cada dimensão deve ter uma configuração de alocação (para decidir qual valor recebe crédito pela conversão) e uma configuração de expiração (quanto tempo o valor persiste), para que o sistema saiba como atribuir valor aos valores de dimensão. Da mesma forma, e trabalhando em conjunto, as métricas também devem ter um modelo de atribuição e uma janela de retrospectiva definidas. Este vídeo o orienta a definir essas configurações todas importantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Recursos adicionais
-
-* [Configuração básica para visualizações de dados](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Documentação de configuração das visualizações de dados](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html).
