@@ -1,23 +1,22 @@
 ---
 title: Introdução aos Filtros no Customer Journey Analytics
-description: Este vídeo apresentará você aos filtros e ao Construtor de filtros no Adobe Customer Journey Analytics.
-feature: Filters
+description: Este vídeo apresentará a você os filtros e o Construtor de filtros no Adobe.
+feature: Filtros
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 13%
+source-wordcount: '64'
+ht-degree: 14%
 
 ---
-
 
 # Introdução a [!UICONTROL Filtros] no Customer Journey Analytics
 
