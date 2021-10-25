@@ -1,8 +1,8 @@
 ---
 title: Configurações de tipo de componente em Visualizações de dados
-description: Ao configurar componentes em uma Exibição de dados no Customer Journey Analytics, você pode escolher se um campo deve ser uma métrica ou uma dimensão. Em muitos casos, as cadeias de caracteres devem ser dimensões e os números devem ser métricas. No entanto, existem alguns casos de grande utilidade para a sua substituição. Dê uma olhada!
-feature: Visualizações de dados
-topic: Administração
+description: Ao configurar componentes em uma Visualização de dados no Customer Journey Analytics, você pode escolher se um campo deve ser uma métrica ou uma dimensão. Em muitos casos, as cadeias de caracteres devem ser dimensões e os números devem ser métricas. No entanto, existem alguns casos de grande utilidade para a sua substituição. Dê uma olhada.
+feature: Data Views
+topic: Administration
 role: Admin
 level: Beginner
 doc-type: feature video
@@ -10,14 +10,14 @@ thumbnail: 333112.jpg
 kt: 7583
 exl-id: b61753df-08d6-4f50-b84d-c8ec6b27db3c
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 2%
+workflow-type: ht
+source-wordcount: '112'
+ht-degree: 100%
 
 ---
 
 # Configurações de tipo de componente em Visualizações de dados
 
-Ao configurar componentes em uma Exibição de dados no Customer Journey Analytics, você pode escolher se um campo deve ser uma métrica ou uma dimensão. Em muitos casos, as cadeias de caracteres devem ser dimensões e os números devem ser métricas. No entanto, existem alguns casos de grande utilidade para a sua substituição. Dê uma olhada!
+Ao configurar componentes em uma Visualização de dados no Customer Journey Analytics, você pode escolher se um campo deve ser uma métrica ou uma dimensão. Em muitos casos, as cadeias de caracteres devem ser dimensões e os números devem ser métricas. No entanto, existem alguns casos de grande utilidade para a sua substituição. Dê uma olhada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)
