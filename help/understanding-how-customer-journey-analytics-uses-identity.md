@@ -1,7 +1,7 @@
 ---
-title: Compreender como o Customer Journey Analytics usa a identidade
-description: Este vídeo não é um mergulho técnico, mas uma análise prática de como a identidade afeta sua análise no Adobe, incluindo uma análise das visualizações em vários canais possibilitadas pela compilação de IDs de visitantes.
-feature: Identidade
+title: Entender como o Customer Journey Analytics usa a identidade
+description: Este vídeo não é um aprofundamento técnico, mas uma visão prática de como a identidade afeta sua análise no Adobe Customer Journey Analytics, incluindo uma análise das visualizações entre canais possibilitada pela compilação de IDs de visitantes.
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# Como entender como o Customer Journey Analytics usa [!UICONTROL Identidade]
+# Entender como o Customer Journey Analytics usa a [!UICONTROL Identidade]
 
-Este vídeo não é um mergulho técnico, mas uma análise prática de como a [!UICONTROL identity] afeta sua análise no Customer Journey Analytics, incluindo uma análise em [!UICONTROL visualizações] entre canais possibilitada ao compilar [!UICONTROL visitor] IDs.
+Este vídeo não é um aprofundamento técnico, mas uma visão prática de como a [!UICONTROL identidade] afeta sua análise no Customer Journey Analytics, incluindo uma análise das [!UICONTROL visualizações] entre canais possibilitada pela compilação de IDs de [!UICONTROL visitante].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
