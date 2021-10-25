@@ -1,7 +1,7 @@
 ---
-title: Conectar Customer Journey Analytics a fontes de dados na plataforma
-description: O Adobe Customer Journey Analytics (CJA) fornece a Analysis Workspace sobre os conjuntos de dados da Adobe Experience Platform para fazer análise entre canais dos dados. Este vídeo mostrará como fazer a conexão entre o CJA e os conjuntos de dados da Plataforma, incluindo a configuração da conexão para transmitir dados contínuos para o CJA a partir da Plataforma.
-feature: Conexões
+title: Conectar o Customer Journey Analytics a fontes de dados na Platform
+description: O Adobe Customer Journey Analytics (CJA) utiliza o Analysis Workspace sobre os conjuntos de dados da Adobe Experience Platform para fazer uma análise entre canais dos dados. Este vídeo mostra como fazer a conexão entre o CJA e os conjuntos de dados da Platform, incluindo a configuração da conexão para transmitir dados em andamento para o CJA a partir da Platform.
+feature: Connections
 topics: null
 activity: setup
 doc-type: feature video
@@ -12,19 +12,19 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+workflow-type: ht
+source-wordcount: '162'
+ht-degree: 100%
 
 ---
 
-# Conectar Customer Journey Analytics a Dados [!UICONTROL Fontes] na Plataforma
+# Conectar o Customer Journey Analytics a [!UICONTROL Fontes] de dados na Platform
 
-O Customer Journey Analytics (CJA) fornece Analysis Workspace sobre [!UICONTROL conjuntos de dados] do Adobe Experience Platform, para fazer análise entre canais dos dados. Este vídeo mostrará como fazer a [!UICONTROL conexão] entre o CJA e a Plataforma [!UICONTROL conjuntos de dados], incluindo a configuração da [!UICONTROL conexão] para transmitir dados em andamento no CJA a partir da Plataforma.
+O Customer Journey Analytics (CJA) utiliza o Analysis Workspace sobre [!UICONTROL conjuntos de dados] da Adobe Experience Platform, para fazer uma análise entre canais dos dados. Este vídeo mostra como fazer a [!UICONTROL conexão] entre o CJA e os [!UICONTROL conjuntos de dados] da Platform, incluindo a configuração da [!UICONTROL conexão] para transmitir dados em andamento para o CJA a partir da Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
 
 ## Recursos adicionais
 
-* [Criar conjuntos de dados e assimilar dados no Adobe Experience Platform - vídeo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
+* [Criar conjuntos de dados e assimilar dados na Adobe Experience Platform - vídeo](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
 * [Documentação do Customer Journey Analytics](https://docs.adobe.com/content/help/pt-BR/analytics-platform/using/cja-landing.html)
