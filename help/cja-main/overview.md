@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,15 +28,15 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
 
 ## Novidades
 
-* **[Transferir segmentos do Adobe Analytics para o Customer Journey Analytics (Vídeo)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
+* **[Transferir segmentos do Adobe Analytics para o Customer Journey Analytics (Vídeo)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
    *Saiba mais sobre como recriar segmentos do Adobe Analytics no Customer Journey Analytics*
 
-* **[Transferir suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics (Vídeo)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[Transferir suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics (Vídeo)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
    *Obtenha dicas sobre como recriar as métricas calculadas do Adobe Analytics no Customer Journey Analytics*
 
-* **[Criar filtros entre canais (Vídeo)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[Criar filtros entre canais (Vídeo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Crie filtros no Customer Journey Analytics que utilizam mais de uma fonte de dados e mais de um canal*
 
@@ -45,11 +45,11 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
 <table>
 <tr>
   <td>
-    <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+    <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
       <img alt="Como entender como o CJA usa a identidade" src="assets/30750.jpg" />
     </a>
     <div>
-      <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+      <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
     <strong>Entender como o Customer Journey Analytics usa a identidade</strong>
     </a>
     </div>
@@ -58,11 +58,11 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
     <p>
   </td>
    <td>
-    <a href="/help/architecture-and-integrations-of-cja.md">
+    <a href="architecture/architecture-and-integrations-of-cja.md">
       <img alt="Arquitetura e integrações do Customer Journey Analytics" src="assets/32483.jpg" />
     </a>
     <div>
-      <a href="/help/architecture-and-integrations-of-cja.md">
+      <a href="architecture/architecture-and-integrations-of-cja.md">
     <strong>Arquitetura e integrações do Customer Journey Analytics</strong>
     </a>
     </div>
@@ -71,11 +71,11 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
     <p>
   </td>
   <td>
-    <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Atribuição entre canais no Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Atribuição entre canais no Customer Journey Analytics</strong>
     </a>
     </div>
