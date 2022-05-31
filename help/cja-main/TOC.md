@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -52,9 +52,9 @@ ht-degree: 28%
 + Painéis (scorecards) {#dashboards}
    + [Criar um cartão de pontuação para dispositivos móveis](dashboards/create-a-mobile-scorecard.md)
    + [Assistir executivos a acessar scorecards móveis](dashboards/assist-executives-to-access-mobile-scorecards.md)
-   + Métricas calculadas {#calc-metrics}
-      + [Introdução às métricas calculadas no Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-      + [Mova suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
++ Métricas calculadas {#calc-metrics}
+   + [Introdução às métricas calculadas no Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+   + [Mova suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + Exportação {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
