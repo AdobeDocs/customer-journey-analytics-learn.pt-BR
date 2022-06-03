@@ -11,10 +11,10 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Este vídeo apresenta os [!UICONTROL filtros] e o [!UICONTROL Construtor de filt
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics-platform/using/cja-landing.html).
+Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR).

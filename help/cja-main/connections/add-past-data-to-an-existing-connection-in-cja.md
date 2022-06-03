@@ -11,10 +11,10 @@ kt: 3965
 role: Data Engineer, Data Architect
 level: Beginner
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Neste vídeo, saiba mais sobre como adicionar dados anteriores (dados que têm u
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
 
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics-platform/using/cja-landing.html).
+Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR).
