@@ -1,5 +1,5 @@
 ---
-title: Trabalho com dados
+title: Trabalhar com dados
 description: Saiba como os esquemas de conjunto de dados são convertidos em variáveis no Adobe Customer Journey Analytics e como o CJA lida com cardinalidade muito alta.
 feature: Connections
 topics: null
@@ -12,9 +12,9 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
