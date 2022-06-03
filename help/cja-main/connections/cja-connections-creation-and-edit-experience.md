@@ -1,23 +1,23 @@
 ---
-title: Criação e edição de experiência de conexões
-description: Uma nova experiência de Conexões com novos recursos que permitem aos clientes ativar a janela rolante de retenção de dados, ativar e solicitar dados de preenchimento retroativo com base em eventos... (as descrições devem ter entre 60 e 160 caracteres)
+title: Experiência de criação e edição de conexões
+description: Uma nova experiência de conexões, com novos recursos que permitem aos clientes ativar a janela de retenção de dados contínuos, habilitar e solicitar dados de preenchimento retroativo com base no carimbo... (as descrições devem ter entre 60 e 160 caracteres)
 feature: Connections
 topic: Administration
 role: Admin
 level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
-source-git-commit: 11d4cd63b860488380777b911a75394b0e311565
-workflow-type: tm+mt
+exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
+source-git-commit: 2a39da3c21e39cdffb159aa152f646e00a1327ca
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
+# Experiência de criação e edição de conexões
 
-# Criação e edição de experiência de conexões
-
-Uma nova experiência de Conexões com novos recursos que permitem aos clientes ativar a janela rolante de retenção de dados, ativar e solicitar dados de preenchimento retroativo com base no carimbo de data e hora dos eventos e importar dados existentes por conjunto de dados.
+Uma nova experiência de conexões, com novos recursos que permitem aos clientes ativar a janela de retenção de dados contínuos, habilitar e solicitar dados de preenchimento retroativo com base no carimbo de data e hora dos eventos e importar dados existentes por conjunto de dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
