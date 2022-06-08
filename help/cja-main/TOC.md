@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,9 +50,9 @@ ht-degree: 95%
       + [Introdução aos filtros](components/filters/introduction-to-filters-in-cja.md)
       + [Criar filtros entre canais](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Transferir segmentos do Adobe Analytics para o Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-+ Painéis (scorecards) {#dashboards}
++ Painéis (cartões de pontuação) {#dashboards}
    + [Criar um cartão de pontuação para dispositivos móveis](dashboards/create-a-mobile-scorecard.md)
-   + [Assistir executivos a acessar scorecards móveis](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Auxiliar executivos a acessar cartões de pontuação móveis](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Métricas calculadas {#calc-metrics}
    + [Introdução às métricas calculadas no Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
    + [Transferir suas métricas calculadas do Adobe Analytics para o Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
