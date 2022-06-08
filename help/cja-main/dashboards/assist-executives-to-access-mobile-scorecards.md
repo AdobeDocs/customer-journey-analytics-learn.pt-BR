@@ -1,6 +1,6 @@
 ---
-title: Assistir executivos a acessar scorecards móveis
-description: Ajude os executivos a acessar scorecards móveis criados no Customer Journey Analytics usando o aplicativo móvel do painel do Analytics.  Os scorecards móveis fornecem acesso a qualquer momento a métricas principais de desempenho e visualizações detalhadas, ou detalhamentos.
+title: Auxiliar executivos a acessar cartões de pontuação móveis
+description: Auxilie os executivos a acessar cartões de pontuação móveis criados no Customer Journey Analytics usando o aplicativo móvel do painel do Analytics.  Os cartões de pontuação móveis fornecem acesso às principais métricas de desempenho e visualizações detalhadas, ou detalhamentos, a qualquer momento.
 feature: Analytics Dashboards
 topic: Mobile
 role: User, Admin
@@ -10,16 +10,16 @@ thumbnail: 343460.jpg
 kt: 10446
 exl-id: 7e4e7030-b82d-4bf3-b3b0-9af24e684988
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
-# Assistir executivos a acessar scorecards móveis
+# Auxiliar executivos a acessar cartões de pontuação móveis
 
-Assistir os executivos a acessar scorecards móveis criados em [!DNL Customer Journey Analytics] usando o [!DNL Analytics] aplicativo móvel do painel.  Os scorecards móveis fornecem acesso a qualquer momento a métricas principais de desempenho e visualizações detalhadas, ou detalhamentos.
+Auxiliar os executivos a acessar cartões de pontuação móveis criados no [!DNL Customer Journey Analytics] usando o aplicativo móvel do painel do [!DNL Analytics].  Os cartões de pontuação móveis fornecem acesso às principais métricas de desempenho e visualizações detalhadas, ou detalhamentos, a qualquer momento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=pt-BR).
