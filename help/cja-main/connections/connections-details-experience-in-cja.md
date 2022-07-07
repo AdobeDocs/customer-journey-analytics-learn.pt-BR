@@ -1,6 +1,6 @@
 ---
 title: Experiência dos detalhes de conexões no CJA
-description: Bem-vindo à Experiência de detalhes de conexões, que permitirá verificar o status dos conjuntos de dados da sua conexão, bem como o processo de assimilação.
+description: Boas-vindas à experiência dos detalhes de conexões, que permitirá verificar o status dos conjuntos de dados da sua conexão, bem como o processo de assimilação.
 feature: Connections
 topic: Administration
 role: Admin
@@ -9,15 +9,15 @@ kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
 source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '137'
+ht-degree: 100%
 
 ---
 
 # Experiência dos detalhes de conexões no CJA
 
-Bem-vindo à Experiência de Detalhes de Conexões que permitirá verificar o status dos conjuntos de dados da sua conexão e do processo de assimilação.
+Boas-vindas à experiência dos detalhes de conexões, que permitirá verificar o status dos conjuntos de dados da sua conexão e do processo de assimilação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
 
