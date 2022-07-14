@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 95%
 
 ---
 
@@ -22,4 +22,4 @@ Neste vídeo, demonstramos como usar os recursos de preparação de dados do Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação do conector de origem do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=pt-BR) e a [documentação das funções de preparação de dados](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação do conector de origem do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=pt-BR) e a [documentação das funções de preparação de dados](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
