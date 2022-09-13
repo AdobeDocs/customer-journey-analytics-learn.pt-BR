@@ -1,5 +1,5 @@
 ---
-title: Publicação de público-alvo para o Customer Journey Analytics
+title: Publicação de público alvo para o Customer Journey Analytics
 description: O Customer Journey Analytics permite publicar os públicos alvos descobertos em sua análise no Perfil do cliente em tempo real da Adobe Experience Platform para a ativação de segmentos usando o Adobe Real-time Customer Data Platform, ou para a orquestração de jornada mais personalizada usando o Adobe Journey Optimizer. (Deve ter entre 60 e 160 caracteres, mas tem 297 caracteres)
 feature: Components
 topic: Integrations
@@ -9,8 +9,8 @@ kt: 11024
 thumbnail: 346759.jpeg
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
