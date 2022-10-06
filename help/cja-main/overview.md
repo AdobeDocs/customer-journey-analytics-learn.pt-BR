@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
 workflow-type: ht
 source-wordcount: '298'
 ht-degree: 100%
@@ -26,6 +26,8 @@ Bem-vindo ao Site de tutoriais do [!DNL Customer Journey Analytics].  A utiliza�
 
 O Customer Journey Analytics permite controlar como você conecta os dados online e offline na Analysis Workspace em qualquer ID de cliente comum, permitindo, finalmente, fazer atribuição, segmentação, fluxo, fallout etc. em todo o conjunto de dados do cliente.
 
+<div id="whats-new-section">
+
 ## Novidades
 
 * **[Transferir segmentos do Adobe Analytics para o Customer Journey Analytics (Vídeo)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
@@ -39,6 +41,10 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
 * **[Criar filtros entre canais (Vídeo)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Crie filtros no Customer Journey Analytics que utilizam mais de uma fonte de dados e mais de um canal*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Escolhas da equipe
 
@@ -85,3 +91,4 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
   </td>
 </tr>
 </table>
+</div>
