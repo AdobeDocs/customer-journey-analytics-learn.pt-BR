@@ -9,9 +9,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '298'
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ O Customer Journey Analytics permite controlar como você conecta os dados onlin
 
 <div id="staff-picks-section">
 
-## Escolhas do pessoal
+## Escolhas da equipe
 
 <table>
 <tr>
