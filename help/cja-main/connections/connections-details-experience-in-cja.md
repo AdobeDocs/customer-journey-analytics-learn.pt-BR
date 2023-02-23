@@ -1,26 +1,23 @@
 ---
-title: Experiência dos detalhes de conexões no CJA
-description: Boas-vindas à experiência dos detalhes de conexões, que permitirá verificar o status dos conjuntos de dados da sua conexão, bem como o processo de assimilação.
+title: Exibir, solucionar problemas e modificar configurações de conexão
+description: O Gerenciador de conexões permite verificar o status da assimilação de conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no Workspace.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
 
 ---
 
-# Experiência dos detalhes de conexões no CJA
+# Exibir, solucionar problemas e modificar configurações de conexão
 
-Boas-vindas à experiência dos detalhes de conexões, que permitirá verificar o status dos conjuntos de dados da sua conexão e do processo de assimilação.
+O Gerenciador de conexões permite verificar o status da assimilação de conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no Workspace. Saiba como identificar discrepâncias de dados devido a configurações incorretas, gerenciar datas de importação de dados e remover conjuntos de dados de conexões.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Essa verificação de status permite saber quando seus dados estão disponíveis para que você possa entrar no Analysis Workspace e iniciar a análise. Além disso, ela permitirá identificar discrepâncias de dados devido a uma configuração incorreta. Há linhas ignoradas ou excluídas? Em caso afirmativo, quantas delas foram ignoradas ou excluídas e quando? Você configurou conexões incorretamente e causou a ausência de dados no CJA?
-
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=pt-BR).
