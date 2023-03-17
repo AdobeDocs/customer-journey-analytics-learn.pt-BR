@@ -1,27 +1,32 @@
 ---
-title: Adicionar dados anteriores a uma conexão existente no Customer Journey Analytics
-description: Neste vídeo, saiba mais sobre como adicionar dados anteriores (dados que têm um carimbo de data e hora anterior associado a eles) à análise existente do Adobe Customer Journey Analytics por meio de conexões e visualizações de dados.
+title: Adicionar novos dados a uma conexão no Customer Journey Analytics
+description: Saiba mais sobre como adicionar novos dados a uma conexão do Customer Journey Analytics para obter mais valor de sua análise.
 feature: Connections
-topics: null
-activity: understand
+activity: setup
 doc-type: technical video
+role: Admin, Data Engineer, Data Architect
+level: Beginner
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: Data Engineer, Data Architect
-level: Beginner
+last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 07226100be0f4164bdf0cfacfa4196415626cbda
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adicionar dados anteriores a uma [!UICONTROL Conexão] existente no Customer Journey Analytics
+# Adicionar novos dados a uma conexão [!UICONTROL Conexão] no Customer Journey Analytics
 
-Neste vídeo, saiba mais sobre como adicionar dados anteriores (dados que têm um carimbo de data e hora anterior associado a eles) à análise existente do Customer Journey Analytics por meio de [!UICONTROL conexões] e [!UICONTROL visualizações de dados].
+Obtenha mais valor de sua análise adicionando novos dados de outros canais a uma conexão do Customer Journey Analytics. Além disso, entenda os requisitos para mesclar esses novos dados e os impactos para análises e relatórios que são abordados usando as configurações.
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR).
+## Vídeos e documentação relacionados:
+
+[Conectar Customer Journey Analytics a fontes de dados](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html)
+[Visão geral da configuração de visualizações de dados](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja.html)
+[Entenda como o Customer Journey Analytics usa a identidade](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity.html)
+[Análise entre canais](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=pt-BR)
