@@ -11,8 +11,8 @@ kt: 3961
 role: User
 level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: ht
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Neste vídeo, descubra como o Customer Journey Analytics permite criar [!UICONTROL visualizações] que incluem dados de vários [!UICONTROL conjuntos de dados] em vários canais, incluindo a mesclagem de dados por [!UICONTROL visitante].
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
 Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR).
