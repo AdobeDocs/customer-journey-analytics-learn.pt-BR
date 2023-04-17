@@ -43,7 +43,7 @@ ht-degree: 98%
    + [Configurar as opções de “Nenhum valor” em visualizações de dados](data-views/configure-no-value-options-in-data-views.md)
    + [Configurações de atribuição em visualizações de dados](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Projeto do Espaço de trabalho {#workspace-projects}
+   + Projeto do espaço de trabalho {#workspace-projects}
       + [Visão geral do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Criar um novo projeto](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualizações {#visualizations}

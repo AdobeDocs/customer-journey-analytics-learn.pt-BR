@@ -1,8 +1,8 @@
 ---
 title: Noções básicas do Customer Journey Analytics
 description: O Adobe Customer Journey Analytics (CJA) é um serviço de aplicativos criado sobre a Adobe Experience Platform. Ele traz a ferramenta de análise avançada conhecida como Analysis Workspace para a Platform, para permitir que você faça a análise de vários canais em qualquer um dos conjuntos de dados da Platform.
-landing-page-description: Saiba como fazer a análise de vários canais em qualquer um dos seus conjuntos de dados da Experience Platform.
-short-description: Saiba como fazer análise de vários canais em qualquer um dos seus conjuntos de dados da Experience Platform.
+landing-page-description: Saiba como fazer uma análise de vários canais em qualquer um dos seus conjuntos de dados da Experience Platform.
+short-description: Saiba como fazer uma análise de vários canais em qualquer um dos seus conjuntos de dados da Experience Platform.
 feature: CJA Workspace Basics
 topics: null
 activity: understand
