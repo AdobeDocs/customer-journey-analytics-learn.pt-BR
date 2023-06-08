@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 90%
+source-wordcount: '381'
+ht-degree: 79%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 90%
 + Visualizações {#visualizations}
    + [Criar visualizações entre canais](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Atribuição entre canais](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Legendas inteligentes](visualizations/intelligent-captions.md)
+   + [Criar legendas inteligentes](visualizations/intelligent-captions.md)
+   + [Adicionar visualizações de área](visualizations/add-area-visualizations.md)
+   + [Adicionar visualizações de barra](visualizations/add-bar-visualizations.md)
+   + [Adicionar visualizações de gráfico de marcadores](visualizations/add-bullet-graph-visualizations.md)
+   + [Adicionar visualizações de rosca](visualizations/add-donut-visualizations.md)
+   + [Adicionar visualizações de linha](visualizations/add-line-visualizations.md)
+   + [Usar a visualização de mapa](visualizations/use-map-visualization.md)
+   + [Usar visualizações de resumo](visualizations/use-summary-visualizations.md)
+   + [Adicionar visualizações de texto](visualizations/add-text-visualizations.md)
+   + [Usar a visualização de gráfico de dispersão](visualizations/use-scatterplot-visualizations.md)
+   + [Adicionar a visualização do mapa de árvore](visualizations/add-treemap-visualizations.md)
+   + [Criar visualizações totalmente empilhadas](visualizations/create-stacked-visualizations.md)
 + Componentes {#components}
    + Filtros (segmentação) {#filters}
       + [Visão geral dos filtros](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 90%
    + [Criar uma anotação](components/create-an-annotation.md)
 + Painéis (cartões de pontuação) {#dashboards}
    + [Criar um cartão de pontuação para dispositivos móveis](dashboards/create-a-mobile-scorecard.md)
-   + [Auxiliar executivos a acessar cartões de pontuação móveis](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Auxiliar executivos com acesso a cartão de pontuação móvel](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportação {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 90%
       + [Usar suporte de campo de data](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
    + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=pt-BR)
-   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
