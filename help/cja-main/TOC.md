@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 79%
+source-wordcount: '388'
+ht-degree: 77%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 79%
    + Projetos do Workspace {#workspace-projects}
       + [Visão geral do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Criar um novo projeto](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + Painéis {#panels}
+      + [Configurar o painel do item seguinte e anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Usar o painel de experimentação](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + Visualizações {#visualizations}
+      + [Criar visualizações entre canais](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [Atribuição entre canais](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [Criar legendas inteligentes](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Adicionar visualizações de área](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Adicionar visualizações de barra](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Adicionar visualizações de gráfico de marcadores](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [Adicionar visualizações de rosca](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Adicionar visualizações de linha](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Usar a visualização de mapa](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Usar visualizações de resumo](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Adicionar visualizações de texto](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [Usar a visualização de gráfico de dispersão](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Adicionar a visualização do mapa de árvore](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Criar visualizações totalmente empilhadas](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + Anotações {#annotations}
+      + [Criar uma anotação](analysis-workspace/annotations/create-an-annotation.md)
    + Prepare e compartilhe {#curate-and-share}
       + [Compartilhe com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ Visualizações {#visualizations}
-   + [Criar visualizações entre canais](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [Atribuição entre canais](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Criar legendas inteligentes](visualizations/intelligent-captions.md)
-   + [Adicionar visualizações de área](visualizations/add-area-visualizations.md)
-   + [Adicionar visualizações de barra](visualizations/add-bar-visualizations.md)
-   + [Adicionar visualizações de gráfico de marcadores](visualizations/add-bullet-graph-visualizations.md)
-   + [Adicionar visualizações de rosca](visualizations/add-donut-visualizations.md)
-   + [Adicionar visualizações de linha](visualizations/add-line-visualizations.md)
-   + [Usar a visualização de mapa](visualizations/use-map-visualization.md)
-   + [Usar visualizações de resumo](visualizations/use-summary-visualizations.md)
-   + [Adicionar visualizações de texto](visualizations/add-text-visualizations.md)
-   + [Usar a visualização de gráfico de dispersão](visualizations/use-scatterplot-visualizations.md)
-   + [Adicionar a visualização do mapa de árvore](visualizations/add-treemap-visualizations.md)
-   + [Criar visualizações totalmente empilhadas](visualizations/create-stacked-visualizations.md)
+   + Dicas e truques {#tips-and-tricks}
+      + [Criar filtros suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Componentes {#components}
    + Filtros (segmentação) {#filters}
       + [Visão geral dos filtros](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 79%
       + [Publicação para público-alvo](components/audiences/audience-publishing-for-cja.md)
    + Dicionário de dados {#data-dictionary}
       + [Usar dicionário de dados](components/data-dictionary/use-data-dictionary.md)
-+ Painéis {#panels}
-   + [Configurar o painel do item seguinte e anterior](panels/configure-next-previous-item-panel.md)
-   + [Usar o painel de experimentação](panels/use-the-experimentation-panel.md)
-+ Anotações {#annotations}
-   + [Criar uma anotação](components/create-an-annotation.md)
 + Painéis (cartões de pontuação) {#dashboards}
    + [Criar um cartão de pontuação para dispositivos móveis](dashboards/create-a-mobile-scorecard.md)
    + [Auxiliar executivos com acesso a cartão de pontuação móvel](dashboards/assist-executives-to-access-mobile-scorecards.md)
