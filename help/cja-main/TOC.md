@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 74%
+source-wordcount: '434'
+ht-degree: 70%
 
 ---
 
@@ -75,6 +75,18 @@ ht-degree: 74%
       + [Criar filtros suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
++ Análise guiada {#guided-analysis}
+   + Impacto {#impact}
+      + [Análise de impacto da versão](guided-analysis/impact/release-impact-analysis.md)
+      + [Análise de impacto de primeiro uso](guided-analysis/impact/first-use-impact-analysis.md)
+   + Funil {#funnel}
+      + [Análise de atrito de funil](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [Análise de tendências de conversão de funil](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + Crescimento de usuários {#user-growth}
+      + [Análise ativa do crescimento do usuário](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Análise do crescimento líquido de usuários](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + Tendências {#trends}
+      + [Análise de tendências de uso](guided-analysis/trends/usage-trends-analysis.md)
 + Componentes {#components}
    + Filtros (segmentação) {#filters}
       + [Visão geral dos filtros](components/filters/introduction-to-filters-in-cja.md)
