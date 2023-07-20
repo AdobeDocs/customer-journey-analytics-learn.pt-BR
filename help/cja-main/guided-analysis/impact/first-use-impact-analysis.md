@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 7%
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 # Análise de impacto de primeiro uso
 
-Saiba como usar o **primeira visualização de uso** no Adobe Product Analytics, que mostra uma comparação do desempenho dos indicadores principais antes e depois que um usuário usa um recurso do produto pela primeira vez.
+Saiba como usar o **primeira visualização de uso** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), que mostra uma comparação de como os indicadores-chave eram executados antes e depois de um usuário usar um recurso do produto pela primeira vez.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
