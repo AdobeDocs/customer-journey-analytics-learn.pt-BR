@@ -8,10 +8,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 4%
+ht-degree: 30%
 
 ---
 
@@ -24,13 +24,13 @@ o Adobe Product Analytics permite que as equipes de produtos realizem o autoaten
 
 Usando o Adobe Product Analytics, as equipes podem:
 
-* Compreender os padrões no engajamento do usuário ao longo do tempo
-* Rastrear o crescimento e a retenção da base de usuários do produto
-* Identificação de áreas de atrito no produto
-* Meça o impacto das versões de recursos&#x200B; e o primeiro uso
+* [Compreender os padrões no engajamento do usuário ao longo do tempo](../guided-analysis/trends/usage-trends-analysis.md)
+* [Rastrear o crescimento e a retenção da base de usuários do produto](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [Identifique áreas de atrito no produto](../guided-analysis/funnel/funnel-friction-analysis.md)
+* [Medir o impacto das versões de recursos e do primeiro uso](../guided-analysis/impact/release-impact-analysis.md)
 * Descubra segmentos significativos de usuários para se envolver e promover durante toda a jornada com o produto
-* Conecte-se à Analysis Workspace para análise e colaboração mais profundas com analistas
+* Conecte-se ao Analysis Workspace para realizar uma análise mais profunda em colaboração com analistas
 
-O Adobe Product Analytics é um complemento pago do Customer Journey Analytics. Se sua organização quiser que a use esse recurso, entre em contato com a equipe de conta do Adobe.
+O Adobe Product Analytics é um complemento pago do Customer Journey Analytics. Se sua organização deseja ser provisionada para usar esse recurso, entre em contato com sua equipe de contas da Adobe.
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html).
