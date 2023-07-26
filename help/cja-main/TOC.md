@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 + Preparação e planejamento de dados {#data-prep}
    + [Trabalhar com dados](data-prep/working-with-data-in-cja.md)
    + [Assimilar, mapear e transformar dados do Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
-   + [Assimilar e use dados de classificações do Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
+   + [Assimilar e usar dados de classificações do Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
 + Conexões {#connections}
    + [Conectar-se a fontes de dados da Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Exibir, solucionar problemas e modificar configurações de conexão](connections/connections-details-experience-in-cja.md)
@@ -59,7 +59,7 @@ ht-degree: 70%
       + [Adicionar visualizações de área](analysis-workspace/visualizations/add-area-visualizations.md)
       + [Adicionar visualizações de barra](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Adicionar visualizações de gráfico de marcadores](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
-      + [Adicionar visualizações de rosca](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Adicionar visualizações de gráfico de rosquinha](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Adicionar visualizações de linha](analysis-workspace/visualizations/add-line-visualizations.md)
       + [Usar a visualização de mapa](analysis-workspace/visualizations/use-map-visualization.md)
       + [Usar visualizações de resumo](analysis-workspace/visualizations/use-summary-visualizations.md)
@@ -69,21 +69,21 @@ ht-degree: 70%
       + [Criar visualizações totalmente empilhadas](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + Anotações {#annotations}
       + [Criar uma anotação](analysis-workspace/annotations/create-an-annotation.md)
-   + Prepare e compartilhe {#curate-and-share}
-      + [Compartilhe com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + Preparar e compartilhar {#curate-and-share}
+      + [Compartilhar com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Dicas e truques {#tips-and-tricks}
       + [Criar filtros suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análise guiada {#guided-analysis}
    + Impacto {#impact}
-      + [Análise de impacto da versão](guided-analysis/impact/release-impact-analysis.md)
-      + [Análise de impacto de primeiro uso](guided-analysis/impact/first-use-impact-analysis.md)
+      + [Análise de impacto do lançamento](guided-analysis/impact/release-impact-analysis.md)
+      + [Análise de impacto do primeiro uso](guided-analysis/impact/first-use-impact-analysis.md)
    + Funil {#funnel}
       + [Análise de atrito de funil](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Análise de tendências de conversão de funil](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + Crescimento de usuários {#user-growth}
-      + [Análise ativa do crescimento do usuário](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Análise do crescimento de usuários ativos](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [Análise do crescimento líquido de usuários](guided-analysis/user-growth/net-user-growth-analysis.md)
    + Tendências {#trends}
       + [Análise de tendências de uso](guided-analysis/trends/usage-trends-analysis.md)
@@ -103,7 +103,7 @@ ht-degree: 70%
       + [Usar dicionário de dados](components/data-dictionary/use-data-dictionary.md)
 + Painéis (cartões de pontuação) {#dashboards}
    + [Criar um cartão de pontuação para dispositivos móveis](dashboards/create-a-mobile-scorecard.md)
-   + [Auxiliar executivos com acesso a cartão de pontuação móvel](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Auxiliar executivos com o acesso a cartões de pontuação móveis](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exportação {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -111,8 +111,8 @@ ht-degree: 70%
 + Casos de uso {#use-cases}
    + Casos de uso de visualizações de dados {#data-views-use-cases}
       + [Relatórios de primeiras sessões e sessões recorrentes](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Usar suporte de campo de data](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Suporte ao campo de data de uso](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
    + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=pt-BR)
-   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
+   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=pt-BR)
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=pt-BR)
