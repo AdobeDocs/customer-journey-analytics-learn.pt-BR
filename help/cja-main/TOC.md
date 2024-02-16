@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 93%
    + [Conectar-se a fontes de dados da Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Exibir, solucionar problemas e modificar configurações de conexão](connections/connections-details-experience-in-cja.md)
    + [Adicionar novos dados a uma conexão](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [Pesquisas do CJA para dados de pesquisa e perfil](connections/cja-lookup-data.md)
+   + [Pesquisas do CJA para dados de perfil e pesquisa](connections/cja-lookup-data.md)
 + Identificação do visitante {#visitor-id}
    + [Entenda como o CJA usa a identidade](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurar uma ID de pessoa ausente](visitor-id/configure-missing-person-id.md)
-   + [Visão geral da compilação](visitor-id/overview-of-stitching.md)
+   + [Visão geral de compilação](visitor-id/overview-of-stitching.md)
 + Visualizações de dados {#data-views}
    + [Visão geral da configuração das visualizações de dados no CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Configuração básica para visualizações de dados](data-views/basic-configuration-for-data-views.md)
@@ -119,6 +119,6 @@ ht-degree: 93%
    + Dados complexos {#complex-data}
       + [Uso de arrays de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=pt-BR){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=pt-BR){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=pt-BR){target=_blank}
-   + [Cenário de análise de jornada de deflexão de chamada](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=pt-BR){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=pt-BR){target=_blank}
