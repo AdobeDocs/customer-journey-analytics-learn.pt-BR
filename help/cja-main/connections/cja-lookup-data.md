@@ -1,6 +1,6 @@
 ---
-title: Pesquisas do CJA para dados de pesquisa e perfil
-description: Saiba como adicionar dados de pesquisa a conjuntos de dados de pesquisa e perfil e planejar e mapear seus campos principais.
+title: Pesquisas do CJA para dados de perfil e pesquisa
+description: Aprenda a adicionar dados de pesquisa a conjuntos de dados de perfil e pesquisa, e descubra como planejar e mapear seus principais campos.
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,15 +9,15 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
+exl-id: 5db80f7c-c54e-43e2-b629-e1b05b1c0aa9
+source-git-commit: 35e9e2baa41bbcd172342ba2f9a485a281c0daef
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
-
-# Pesquisas do CJA para dados de pesquisa e perfil
+# Pesquisas do CJA para dados de perfil e pesquisa
 
 Com o CJA Lookups sobre pesquisa e dados de perfil, os usuários podem utilizar relacionamentos mais profundos entre elementos de dados, como pessoa para conta em casos de uso B2B.  Neste vídeo, abordamos como adicionar dados de pesquisa a conjuntos de dados de pesquisa e perfil e como planejar e mapear seus campos principais.  Observe que, se houver uma relação de um para muitos entre a chave e o valor de pesquisa, o valor mais recente será usado.
 
