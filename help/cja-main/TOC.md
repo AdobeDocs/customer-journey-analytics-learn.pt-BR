@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 97%
 
 ---
 
@@ -79,17 +79,19 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análise guiada {#guided-analysis}
-   + Impacto {#impact}
-      + [Análise de impacto do lançamento](guided-analysis/impact/release-impact-analysis.md)
-      + [Análise de impacto do primeiro uso](guided-analysis/impact/first-use-impact-analysis.md)
    + Funil {#funnel}
       + [Análise de atrito de funil](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Análise de tendências de conversão de funil](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + Impacto {#impact}
+      + [Análise de impacto do lançamento](guided-analysis/impact/release-impact-analysis.md)
+      + [Análise de impacto do primeiro uso](guided-analysis/impact/first-use-impact-analysis.md)
+   + Tendências {#trends}
+      + [Análise de tendências de uso](guided-analysis/trends/usage-trends-analysis.md)
+   + Fluxo de usuário {#user-stream}
+      + [Análise da linha do tempo do fluxo de usuários](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + Crescimento de usuários {#user-growth}
       + [Análise do crescimento de usuários ativos](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [Análise do crescimento líquido de usuários](guided-analysis/user-growth/net-user-growth-analysis.md)
-   + Tendências {#trends}
-      + [Análise de tendências de uso](guided-analysis/trends/usage-trends-analysis.md)
 + Componentes {#components}
    + Filtros (segmentação) {#filters}
       + [Visão geral dos filtros](components/filters/introduction-to-filters-in-cja.md)
