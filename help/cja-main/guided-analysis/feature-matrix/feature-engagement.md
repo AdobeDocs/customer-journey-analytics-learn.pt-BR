@@ -8,7 +8,7 @@ doc-type: Feature Video
 jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14T00:00:00Z
-source-git-commit: 11345e8ae8fca8b1f6a9abcec60677fd1e0d49ac
+source-git-commit: bd5225b31edace77b78e1a8b80ec9fcdc88ba6cc
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 7%
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 # Análise de engajamento de recursos
 
-Saiba como usar o **exibição do engajamento do recurso** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). Essa análise fornece informações sobre a frequência com que os recursos do seu produto são usados em relação ao número de pessoas que os usam. Compare vários recursos ao mesmo tempo para obter os benefícios ideais. O ajuda suas decisões de investimento entendendo seus recursos principais, avançados, únicos e questionáveis.
+Saiba como usar o **exibição do engajamento do recurso** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). Essa análise fornece informações sobre a frequência com que os recursos do seu produto são usados em relação ao número de pessoas que os usam. Compare vários recursos ao mesmo tempo para obter os benefícios ideais. Isso ajuda nas decisões de investimento, pois entende o núcleo, a potência, os recursos únicos e os recursos questionáveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
