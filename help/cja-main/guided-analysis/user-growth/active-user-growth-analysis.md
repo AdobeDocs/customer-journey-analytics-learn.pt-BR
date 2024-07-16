@@ -1,6 +1,6 @@
 ---
-title: Análise ativa do crescimento do usuário
-description: Saiba como a exibição Ativa no Adobe Product Analytics fornece insights sobre o crescimento de usuários em um período específico, dividido por usuários novos, repetidos, retornados e inativos.
+title: Análise do crescimento de usuários ativos
+description: Saiba como a exibição Ativa no Customer Journey Analytics fornece insights sobre o crescimento de usuários em um período específico, dividido por usuários novos, repetidos, retornados e inativos.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: a550bffe-de6c-4780-8617-c68226257258
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '72'
+ht-degree: 20%
 
 ---
 
+# Análise do crescimento de usuários ativos
 
-# Análise ativa do crescimento do usuário
-
-Saiba como o **exibição ativa** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) O fornece insights sobre o crescimento de usuários em um período específico, divididos por usuários novos, repetidos, retornados e inativos.
+Saiba como a **exibição ativa** no Customer Journey Analytics fornece insights sobre o crescimento de usuários em um período específico, divididos por usuários novos, repetidos, retornados e inativos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
