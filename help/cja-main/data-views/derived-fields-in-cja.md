@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13438
 thumbnail: 3420258.jpeg
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 7%
+source-wordcount: '179'
+ht-degree: 4%
 
 ---
-
 
 # Criar campos derivados no Customer Journey Analytics
 

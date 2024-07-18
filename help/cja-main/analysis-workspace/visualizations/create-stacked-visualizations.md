@@ -1,6 +1,6 @@
 ---
-title: Criar [!UICONTROL barra totalmente empilhada] visualizações no [!DNL Analysis Workspace] projetos
-description: Saiba como configurar [!UICONTROL barra totalmente empilhada] visualizações usando porcentagens em vez de valores brutos no [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics].
+title: Criar visualizações de [!UICONTROL barra totalmente empilhada] em [!DNL Analysis Workspace] projetos
+description: Saiba como configurar as visualizações de [!UICONTROL barra totalmente empilhada] usando porcentagens em vez de valores brutos em  [!DNL Analysis Workspace] projetos em [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13434
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 47c482e4-91b2-4c0d-bd6d-719f20b91204
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Criar [!UICONTROL barra totalmente empilhada] visualizações no [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]
+# Criar visualizações de [!UICONTROL barra totalmente empilhada] em [!DNL Analysis Workspace] projetos em [!DNL Customer Journey Analytics]
 
-Saiba como configurar [!UICONTROL barra totalmente empilhada] visualizações (100%) usando porcentagens em vez de valores brutos no [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics].
+Saiba como configurar visualizações (100%) de [!UICONTROL barras totalmente empilhadas] usando porcentagens em vez de valores brutos em projetos [!DNL Analysis Workspace] no [!DNL Customer Journey Analytics].
 
 >[!NOTE]
 >
->A variável [!DNL Analysis Workspace] A interface do usuário e os recursos são semelhantes em [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Para obter mais informações sobre [!UICONTROL var totalmente empilhada] visualizações, visite o [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+Para obter mais informações sobre [!UICONTROL visualizações de var] totalmente empilhadas, visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

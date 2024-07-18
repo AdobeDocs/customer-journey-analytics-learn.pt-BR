@@ -123,7 +123,7 @@ ht-degree: 93%
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Agendar pastas de trabalho do Customer Journey Analytics usando o Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Integração do Experience Platform {#experience-platform-integration}
++ Integração com o Experience Platform {#experience-platform-integration}
    + [Relatórios aprimorados do Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casos de uso {#use-cases}
    + Casos de uso de visualizações de dados {#data-views-use-cases}

@@ -1,6 +1,6 @@
 ---
-title: Uso [!UICONTROL mapa] visualizações no [!DNL Analysis Workspace] projetos
-description: Saiba como usar o [!UICONTROL mapa] visualização em [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics].
+title: Usar visualizações de [!UICONTROL mapa] em [!DNL Analysis Workspace] projetos
+description: Saiba como usar a visualização de [!UICONTROL mapa] em [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,19 +9,20 @@ kt: 13407
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: dfbeeaeb-118d-4566-9296-b04511b5927e
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Uso [!UICONTROL mapa] visualizações no [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]
+# Usar visualizações [!UICONTROL map] em [!DNL Analysis Workspace] projetos em [!DNL Customer Journey Analytics]
 
-Saiba como usar o [!UICONTROL mapa] visualização em [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]. Essa visualização permite entender o uso do cliente com base em sua localização.
+Saiba como usar a visualização de [!UICONTROL mapa] em projetos [!DNL Analysis Workspace] no [!DNL Customer Journey Analytics]. Essa visualização permite entender o uso do cliente com base em sua localização.
 
 >[!NOTE]
 >
->A variável [!DNL Analysis Workspace] A interface do usuário e os recursos são semelhantes em [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
