@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Projetos do Workspace {#workspace-projects}
       + [Visão geral do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Criar um novo projeto](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + Análise de jornada {#journey-analysis}
+         + [Jornada visualização da tela](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Painéis {#panels}
       + [Configurar o painel do item seguinte e anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Usar o painel de experimentação](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -86,7 +88,7 @@ ht-degree: 92%
    + [Crescimento ativo](guided-analysis/active-growth.md)
    + [Tendências de conversão](guided-analysis/conversion-trends.md)
    + [Engajamento](guided-analysis/engagement.md)
-   + [Impacto da primeira utilização](guided-analysis/first-use-impact.md)
+   + [Impacto do primeiro uso](guided-analysis/first-use-impact.md)
    + [Frequência](guided-analysis/frequency.md)
    + [Funil](guided-analysis/funnel.md)
    + [Crescimento líquido](guided-analysis/net-growth.md)
