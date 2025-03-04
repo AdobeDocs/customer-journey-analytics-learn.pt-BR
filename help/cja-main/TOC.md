@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
+source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '468'
+ht-degree: 91%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 0%
       + [Criar um novo projeto](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Modelos do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + Análise de jornada {#journey-analysis}
-         + [Jornada visualização da tela](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
+         + [Visualização da tela da jornada](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Painéis {#panels}
       + [Configurar o painel do item seguinte e anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Usar o painel de experimentação](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -86,6 +86,7 @@ ht-degree: 0%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análise guiada {#guided-analysis}
+   + [Usar análise guiada no Workspace](guided-analysis/guided-analysis-in-workspace.md)
    + [Crescimento ativo](guided-analysis/active-growth.md)
    + [Tendências de conversão](guided-analysis/conversion-trends.md)
    + [Engajamento](guided-analysis/engagement.md)
@@ -119,15 +120,15 @@ ht-degree: 0%
    + Report Builder {#report-builder}
       + [Report Builder para Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Agendar pastas de trabalho do Customer Journey Analytics usando o Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Integração com o Experience Platform {#experience-platform-integration}
++ Integração do Experience Platform {#experience-platform-integration}
    + [Relatórios aprimorados do Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casos de uso {#use-cases}
    + Casos de uso de visualizações de dados {#data-views-use-cases}
       + [Relatórios de primeiras sessões e sessões recorrentes](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Suporte ao campo de data de uso](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Dados complexos {#complex-data}
-      + [Uso de arrays de objetos](use-cases/complex-data/object-arrays-in-cja.md)
+      + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
    + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=pt-BR){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=pt-BR){target=_blank}
+   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
