@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 91%
 # Tutoriais do Customer Journey Analytics {#tutorials}
 
 + [Visão geral do Customer Journey Analytics](overview.md)
-+ Noções básicas sobre o Customer Journey Analytics {#cja-basics}
++ Noções básicas do Customer Journey Analytics {#cja-basics}
    + [O que é o Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Introdução ao Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Novos termos e conceitos](cja-basics/new-terms-and-concepts-in-cja.md)
@@ -82,7 +82,7 @@ ht-degree: 91%
    + Preparar e compartilhar {#curate-and-share}
       + [Compartilhar com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Dicas e truques {#tips-and-tricks}
-      + [Criar filtros suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Criar segmentos suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Visão geral do Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Análise guiada {#guided-analysis}
@@ -99,11 +99,11 @@ ht-degree: 91%
    + [Linha do tempo](guided-analysis/timeline.md)
    + [Tendências](guided-analysis/trends.md)
 + Componentes {#components}
-   + Filtros (segmentação) {#filters}
-      + [Visão geral dos filtros](components/filters/introduction-to-filters-in-cja.md)
-      + [Criar um filtro rápido](components/filters/create-a-quick-filter.md)
-      + [Criar filtros entre canais](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Usar filtros como dimensões](components/filters/use-filters-as-dimensions.md)
+   + Segmentos {#filters}
+      + [Visão geral dos segmentos](components/filters/introduction-to-filters-in-cja.md)
+      + [Criar um segmento rápido](components/filters/create-a-quick-filter.md)
+      + [Criar segmentos entre canais](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Usar segmentos como dimensões](components/filters/use-filters-as-dimensions.md)
       + [Transferir segmentos do Adobe Analytics para o Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Métricas calculadas {#calc-metrics}
       + [Introdução às métricas calculadas no Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -133,5 +133,5 @@ ht-degree: 91%
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
    + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

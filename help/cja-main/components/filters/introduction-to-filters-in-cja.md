@@ -1,7 +1,7 @@
 ---
-title: Visão geral dos filtros
-description: Saiba mais sobre os principais componentes do Construtor de filtros no Customer Journey Analytics.
-feature: Filters
+title: Visão geral dos segmentos
+description: Saiba mais sobre os principais componentes do Construtor de segmentos no Customer Journey Analytics.
+feature: Segments
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
@@ -9,17 +9,19 @@ kt: 4447
 role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 98%
+source-wordcount: '69'
+ht-degree: 20%
 
 ---
 
-# Visão geral dos filtros
+# Visão geral dos segmentos
 
-Os filtros identificam subconjuntos de visitantes ou clientes com base em atributos e eventos, como visitantes do site ou engajamento da central de atendimento. Saiba mais sobre os principais componentes do Construtor de filtros no Customer Journey Analytics.
+Os segmentos identificam subconjuntos de visitantes ou clientes com base em atributos e eventos, como visitantes de sites ou envolvimento da central de atendimento. Saiba mais sobre os principais componentes do Construtor de segmentos no Customer Journey Analytics. Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+
+>[!NOTE]
+>
+> &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
-
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html).
