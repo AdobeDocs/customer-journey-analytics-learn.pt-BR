@@ -22,4 +22,4 @@ Saiba como o **crescimento líquido** no Customer Journey Analytics fornece info
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=pt-BR).

@@ -21,4 +21,4 @@ Saiba mais sobre a **linha do tempo** no Customer Journey Analytics, que ajuda a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/streams/timeline).

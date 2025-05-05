@@ -18,7 +18,7 @@ ht-degree: 2%
 
 A medição do desempenho do conteúdo pode ser desafiadora, geralmente resultando em suposições e ineficiências. O Content Analytics elimina a adivinhação fornecendo insights profundos sobre o que torna o conteúdo eficaz — seja tom, imagem, cor ou mensagens. Ele responde a perguntas importantes, como o que impulsiona o engajamento e como o conteúdo pode ser otimizado.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} do Content Analytics.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} do Content Analytics.
 
 ## Introdução
 

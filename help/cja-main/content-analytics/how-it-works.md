@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Saiba como o [!DNL Content Analytics] funciona com o Customer Journey Analytics e o Experience Platform.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} do Content Analytics.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"} do Content Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)

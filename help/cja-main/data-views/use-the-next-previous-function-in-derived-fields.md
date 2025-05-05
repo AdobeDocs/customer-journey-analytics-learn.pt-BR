@@ -21,4 +21,4 @@ Descubra como usar a função &quot;Próximo ou Anterior&quot; no Customer Journ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields).

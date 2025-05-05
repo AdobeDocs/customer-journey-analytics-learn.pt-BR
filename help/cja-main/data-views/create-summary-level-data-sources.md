@@ -22,4 +22,4 @@ O Customer Journey Analytics é compatível com dados a nível de resumo que per
 
 ## Recursos adicionais
 
-* Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/summary-data)
