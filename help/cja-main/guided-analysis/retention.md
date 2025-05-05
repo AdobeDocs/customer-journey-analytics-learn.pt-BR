@@ -22,6 +22,6 @@ Explore a **retenção** no Customer Journey Analytics. Saiba como usar os event
 
 Saiba como usar eventos de início e retorno para medir o engajamento e a retenção do usuário de maneira eficaz. O tutorial também aborda como ajustar as configurações de retenção para diferentes modelos de negócios, independentemente de você estar executando um site de viagens, uma plataforma de comércio eletrônico ou uma ferramenta de produtividade. Obtenha dicas práticas sobre como usar dados de retenção para otimizar a adequação ao mercado do produto e impulsionar o engajamento sustentado do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435783/?learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/retention/retention-rates).

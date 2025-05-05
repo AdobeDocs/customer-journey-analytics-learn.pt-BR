@@ -19,6 +19,6 @@ ht-degree: 100%
 
 A página de aterrissagem do Customer Journey Analytics apresenta uma visualização padrão dos projetos e cartões de pontuação móveis e uma seção de aprendizado para ajudá-lo a começar com mais eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409311/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=pt-BR).

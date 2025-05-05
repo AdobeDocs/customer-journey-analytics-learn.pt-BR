@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Saiba como ativar legendas inteligentes em suas visualizações para que você possa obter insights de linguagem natural criados automaticamente sobre seus dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443143/?learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=pt-BR).

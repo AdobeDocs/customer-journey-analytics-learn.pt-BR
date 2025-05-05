@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Saiba como o **funil** do Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431282/?learn=on&captions=por_br)
 
 Você também pode comparar vários eventos em uma única etapa de funil, criando um &quot;funil bifurcado&quot;. Esse &quot;funil bifurcado&quot; permite comparar o atrito de duas jornadas lado a lado, o que pode ser útil quando houver opções de etapa ou um experimento A/B estiver sendo executado no funil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445804/?learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/funnel/friction).

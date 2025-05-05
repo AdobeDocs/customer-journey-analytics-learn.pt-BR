@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Aproveite melhor sua análise adicionando novos dados de outros canais a uma conexão do Customer Journey Analytics. Além disso, entenda os requisitos para mesclar esses novos dados e os impactos na análise e nos relatórios que são abordados usando as configurações.
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36533/?learn=on&quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre a Análise de vários canais, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=pt-BR).

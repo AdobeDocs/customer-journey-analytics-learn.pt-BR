@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Execute a conversão de moeda na análise de jornada do cliente por meio de uma configuração em Visualizações de dados. Use essa funcionalidade para criar várias métricas para exibir em moedas diferentes. Para obter a documentação detalhada, visite [Configurações do componente de Formato](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=pt-BR#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447529/?learn=on&captions=por_br)
