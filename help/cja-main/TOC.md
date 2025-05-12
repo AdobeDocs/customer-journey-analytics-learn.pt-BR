@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 91fc9e0831f5538ea1d0f6d42c537c3705b4c30e
+source-git-commit: f111928de695435104b175ba10707d851e2819e8
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '534'
 ht-degree: 75%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 75%
       + Análise de jornada {#journey-analysis}
          + [Visualização da tela da jornada](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Painéis {#panels}
+      + [Adicionar componentes ao painel de forma livre](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
       + [Configurar o painel do item seguinte e anterior](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Usar o painel de experimentação](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [Usar o painel do quick insights](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -133,9 +134,9 @@ ht-degree: 75%
    + Dados complexos {#complex-data}
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
 + Adobe Summit {#summit}
    + 2025 {#2025}
       + Shorts {#shorts}
