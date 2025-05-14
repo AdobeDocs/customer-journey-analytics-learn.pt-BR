@@ -25,7 +25,7 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 O Content Analytics usa a infraestrutura de IA e Experience Platform para revelar o que torna o conteúdo eficaz. As equipes podem otimizar melhor o engajamento, impulsionar conversões e tomar decisões mais inteligentes com base em dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457315/?learn=on&enablevpops&captions=por_br)
 
 
 ## Como funciona
@@ -41,7 +41,7 @@ O Content Analytics usa a infraestrutura de IA e Experience Platform para revela
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Definir permissões para o Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Como funciona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457432/?format=jpeg&nocache=1742338375674&captions=por_br" alt="Content Analytics - Como funciona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
