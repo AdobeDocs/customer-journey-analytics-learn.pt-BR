@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba como o Modo fácil do Analytics revela recursos ocultos no Analysis Workspace, facilitando o acesso de usuários a ferramentas poderosas e a simplificação de seus fluxos de trabalho.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459720/?learn=on&enablevpops=true&captions=por_br)

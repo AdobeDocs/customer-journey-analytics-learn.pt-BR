@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore a Tela de Jornada no CJA, uma poderosa ferramenta de visualização para criar funis de várias etapas e analisar as jornadas do usuário.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460155/?learn=on&enablevpops=true&captions=por_br)

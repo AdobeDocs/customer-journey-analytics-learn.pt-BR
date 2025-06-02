@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra como a compilação baseada em gráficos permite a integração perfeita de vários conjuntos de dados, criando uma visualização unificada do cliente para insights acionáveis.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460220/?learn=on&enablevpops=true&captions=por_br)
