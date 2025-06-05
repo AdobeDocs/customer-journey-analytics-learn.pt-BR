@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '493'
 ht-degree: 82%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 82%
    + [Trabalhar com dados](data-prep/working-with-data-in-cja.md)
    + [Assimilar, mapear e transformar dados do Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Assimilar e usar dados de classificações do Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
++ Controle de acesso {#access-control}
+   + [Configurar permissões](permissions/set-up-permissions.md)
 + Conexões {#connections}
    + [Conectar-se a fontes de dados da Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Exibir, solucionar problemas e modificar configurações de conexão](connections/connections-details-experience-in-cja.md)
@@ -53,7 +55,7 @@ ht-degree: 82%
    + [Configurações de atribuição em visualizações de dados](data-views/attribution-settings-in-data-views.md)
    + [Conversão de moeda](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Projetos do espaço de trabalho {#workspace-projects}
+   + Projetos do Workspace {#workspace-projects}
       + [Visão geral do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Criar um novo projeto](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Modelos do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
@@ -136,6 +138,6 @@ ht-degree: 82%
    + Dados complexos {#complex-data}
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
