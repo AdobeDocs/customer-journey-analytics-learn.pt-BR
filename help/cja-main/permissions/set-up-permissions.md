@@ -21,4 +21,4 @@ Este vídeo fornece uma apresentação passo a passo sobre a configuração de p
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/access-control){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463390/?learn=on&captions=por_br)
