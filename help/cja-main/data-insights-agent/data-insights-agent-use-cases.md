@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Simplifique a análise usando consultas de linguagem natural, visualizações em tempo real e tabelas de forma livre. Aumente a eficiência no desenvolvimento de estratégias de marketing, no gerenciamento de campanhas e nos relatórios de desempenho comercial. Essa solução alimentada por IA capacita os profissionais de marketing com insights instantâneos e libera os analistas para tarefas estratégicas, aprimorando as experiências do cliente e a tomada de decisão proativa.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)

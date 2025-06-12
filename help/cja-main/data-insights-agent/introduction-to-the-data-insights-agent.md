@@ -18,7 +18,7 @@ ht-degree: 0%
 
 O [!DNL Data Insights Agent], viabilizado pelo Experience Platform Agent Orchestrator da Adobe, revoluciona a orquestração de experiências do cliente para profissionais de marketing e usuários empresariais. Ele aproveita a IA gerativa para fornecer insights personalizados em tempo real por meio de consultas de linguagem natural, eliminando os gargalos tradicionais dos analistas.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} do Data Insights Agent.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} do Data Insights Agent.
 
 ## Introdução
 
