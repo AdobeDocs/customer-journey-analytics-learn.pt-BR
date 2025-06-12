@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
+source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 82%
+source-wordcount: '504'
+ht-degree: 81%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 82%
    + [Configurar as opções de “Nenhum valor” em visualizações de dados](data-views/configure-no-value-options-in-data-views.md)
    + [Configurações de atribuição em visualizações de dados](data-views/attribution-settings-in-data-views.md)
    + [Conversão de moeda](data-views/currency-conversion.md)
++ Data Insights Agent {#data-insights-agent}
+   + [Introdução](data-insights-agent/introduction-to-the-data-insights-agent.md)
+   + [Casos de uso](data-insights-agent/data-insights-agent-use-cases.md)
+   + [Usar o Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Projetos do Workspace {#workspace-projects}
       + [Visão geral do Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -138,6 +142,6 @@ ht-degree: 82%
    + Dados complexos {#complex-data}
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
