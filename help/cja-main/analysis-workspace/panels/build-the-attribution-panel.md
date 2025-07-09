@@ -21,4 +21,4 @@ Saiba como usar o painel de atribuição no [!DNL Customer Journey Analytics]. E
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/panels/attribution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464727/?learn=on&captions=por_br)
