@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Profundidade do evento no Customer Journey Analytics é um componente de dimensão padrão que permite o rastreamento sequencial preciso das interações do usuário nas sessões, fornecendo insights valiosos sobre os padrões de comportamento do cliente em plataformas digitais e offline. Para obter informações adicionais, visite a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464856/?learn=on&enablevpops&captions=por_br)
