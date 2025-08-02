@@ -21,4 +21,4 @@ Use o Gerente de Atividades de Relatórios no [!DNL Customer Journey Analytics] 
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470319/?learn=on&captions=por_br)
