@@ -20,4 +20,4 @@ ht-degree: 7%
 
 Dê vida aos seus dados de localização com a visualização de mapa! Identifique clusters geográficos e crie segmentos instantâneos usando a ferramenta de seleção. Apenas algumas etapas de configuração simples e você está pronto para prosseguir! Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470824/?learn=on&enablevpops&captions=por_br)
