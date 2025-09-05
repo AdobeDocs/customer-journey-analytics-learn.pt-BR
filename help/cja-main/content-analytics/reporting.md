@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Descubra como o [!DNL Content Analytics] automatiza o rastreamento de ativos e fornece relatórios detalhados sobre o desempenho do conteúdo do site, incluindo exibições, cliques e conversões. Saiba como aproveitar insights de IDs de ativos e experiências, metadados como cores e emoções e visualizações geradas por modelo para otimizar sua estratégia de conteúdo.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} do Content Analytics.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} do Content Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
