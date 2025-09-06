@@ -21,4 +21,4 @@ Saiba como configurar a Profundidade do evento em campos derivados do Customer J
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471048/?learn=on&captions=por_br)
