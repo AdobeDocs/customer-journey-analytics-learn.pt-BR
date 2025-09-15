@@ -1,6 +1,6 @@
 ---
 title: Criar legendas inteligentes
-description: Saiba como ativar legendas inteligentes em suas visualizações para que você possa obter insights de linguagem natural criados automaticamente sobre seus dados.
+description: Saiba como habilitar legendas inteligentes em suas visualizações para que você possa obter insights de linguagem natural sobre seus dados de forma automática.
 feature: Visualizations
 role: User
 level: Beginner
@@ -12,14 +12,14 @@ exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
 source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 20%
+ht-degree: 98%
 
 ---
 
 # Criar legendas inteligentes
 
-Saiba como ativar legendas inteligentes em suas visualizações para que você possa obter insights de linguagem natural criados automaticamente sobre seus dados.
+Saiba como habilitar legendas inteligentes em suas visualizações para que você possa obter insights de linguagem natural sobre seus dados de forma automática.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443143/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
