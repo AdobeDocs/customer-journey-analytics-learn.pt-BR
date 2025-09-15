@@ -22,4 +22,4 @@ Saiba como habilitar legendas inteligentes em suas visualizações para que voc�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=pt-BR).
