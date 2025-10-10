@@ -27,4 +27,4 @@ Saiba como usar a visualização [!UICONTROL gráfico de dispersão] em projetos
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações de [!UICONTROL gráfico de dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Para obter mais informações sobre as visualizações de [!UICONTROL gráfico de dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=pt-BR).

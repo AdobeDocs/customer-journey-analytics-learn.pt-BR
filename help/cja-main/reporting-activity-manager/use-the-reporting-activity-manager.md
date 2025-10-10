@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Use o Gerente de Atividades de Relatórios no [!DNL Customer Journey Analytics] para monitorar e gerenciar a capacidade de relatórios em conexões organizacionais. Este vídeo aborda o acesso às métricas principais, a solução de problemas de desempenho e a otimização da eficiência do sistema.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

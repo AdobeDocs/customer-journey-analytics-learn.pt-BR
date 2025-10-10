@@ -20,7 +20,7 @@ ht-degree: 7%
 
 # Criar [!UICONTROL segmentos] entre canais no Customer Journey Analytics
 
-Saiba como criar [!UICONTROL segmentos] no Adobe Customer Journey Analytics que usam mais de uma única fonte de dados e canal. Além disso, saiba como [!UICONTROL segmentos] podem ser combinados em [!UICONTROL visualizações]. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Saiba como criar [!UICONTROL segmentos] no Adobe Customer Journey Analytics que usam mais de uma única fonte de dados e canal. Além disso, saiba como [!UICONTROL segmentos] podem ser combinados em [!UICONTROL visualizações]. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >
