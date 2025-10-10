@@ -20,4 +20,4 @@ ht-degree: 23%
 
 Use a **Análise Guiada** no Analysis Workspace para usar o autoatendimento de insights de dados de alta qualidade por meio de fluxos de trabalho guiados. Esse recurso permite acesso, criação, salvamento e reutilização fáceis de análises, simplificando tarefas como rastreamento de retenção de usuários e análise do funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449502/?learn=on&captions=por_br)

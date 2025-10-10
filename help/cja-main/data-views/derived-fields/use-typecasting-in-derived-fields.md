@@ -22,4 +22,4 @@ Descubra a Codificação de tipos em campos derivados do Customer Journey Analyt
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471059/?learn=on&captions=por_br)

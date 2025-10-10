@@ -22,4 +22,4 @@ Descubra como o [!DNL Content Analytics] automatiza o rastreamento de ativos e f
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} do Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473042/?learn=on&enablevpops&captions=por_br)

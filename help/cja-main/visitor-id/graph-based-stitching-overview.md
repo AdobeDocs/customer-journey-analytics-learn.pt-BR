@@ -20,7 +20,7 @@ ht-degree: 4%
 
 A compilação baseada em gráficos aproveita o potencial do gráfico de identidade para alinhar identidades em aplicativos do Experience Platform. Esse recurso permite que mais conjuntos de dados sejam unidos na Customer Journey Analytics usando um identificador de pessoa comum neles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448721/?learn=on&captions=por_br)
 
 Por meio da compilação baseada em gráfico, usando o Gráfico de identidade, obtenha uma melhor visualização da Jornada do cliente por meio do:
 

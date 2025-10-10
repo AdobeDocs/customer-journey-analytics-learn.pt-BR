@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Auxiliar os executivos a acessar cartões de pontuação móveis criados no [!DNL Customer Journey Analytics] usando o aplicativo móvel do painel do [!DNL Analytics].  Os cartões de pontuação móveis fornecem acesso às principais métricas de desempenho e visualizações detalhadas, ou detalhamentos, a qualquer momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444841/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=pt-BR).

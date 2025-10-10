@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Uma nova experiência de conexões, com novos recursos que permitem aos clientes ativar a janela de retenção de dados contínuos, habilitar e solicitar dados de preenchimento retroativo com base no carimbo de data e hora dos eventos e importar dados existentes por conjunto de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409303/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=pt-BR).

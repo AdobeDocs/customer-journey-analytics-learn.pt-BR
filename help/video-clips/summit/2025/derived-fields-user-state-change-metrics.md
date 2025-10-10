@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra como criar métricas para transições do usuário, como mudar de prata para ouro, e atribuí-las a canais de marketing usando campos derivados no CJA.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460037/?learn=on&enablevpops=true&captions=por_br)

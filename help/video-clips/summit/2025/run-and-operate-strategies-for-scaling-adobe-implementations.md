@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore as estratégias internas da Adobe para executar e operar implementações em larga escala, incluindo a priorização de casos de uso, o monitoramento e a medição do ROI.
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461085/?learn=on&enablevpops=true&captions=por_br)

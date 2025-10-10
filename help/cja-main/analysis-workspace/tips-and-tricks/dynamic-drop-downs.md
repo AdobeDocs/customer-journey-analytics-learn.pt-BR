@@ -24,4 +24,4 @@ Saiba como criar segmentos suspensos com base em uma dimensão inteira. Os itens
 >
 > &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446821/?learn=on&captions=por_br)
