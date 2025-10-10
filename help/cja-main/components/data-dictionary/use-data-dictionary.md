@@ -1,6 +1,6 @@
 ---
 title: Usar o dicionário de dados
-description: Saiba mais sobre o dicionário de dados no Analysis Workspace for Customer Journey Analytics. Esse recurso ajuda os usuários e administradores a rastrear e entender os componentes usados nos projetos. 
+description: Saiba mais sobre o dicionário de dados no Analysis Workspace para Customer Journey Analytics. Esse recurso ajuda os usuários e administradores a rastrear e entender os componentes usados nos projetos. 
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Usar o dicionário de dados
 
-Saiba mais sobre o dicionário de dados no Analysis Workspace for Customer Journey Analytics. Esse recurso ajuda os usuários e administradores a rastrear e entender os componentes usados nos projetos. 
+Saiba mais sobre o dicionário de dados no Analysis Workspace para Customer Journey Analytics. Esse recurso ajuda os usuários e administradores a rastrear e entender os componentes usados nos projetos. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Para obter mais informações sobre o Dicionário de Dados no Analysis Workspace for Customer Journey Analytics, visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=pt-BR).
+Para obter mais informações sobre o Dicionário de Dados no Analysis Workspace para Customer Journey Analytics, visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html).

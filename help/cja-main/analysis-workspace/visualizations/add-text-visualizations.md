@@ -25,6 +25,6 @@ Saiba como adicionar e configurar visualizações de [!UICONTROL texto] em proje
 >
 >A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/30800/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Para obter mais informações sobre visualizações de [!UICONTROL texto], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=pt-BR).
+Para obter mais informações sobre visualizações de [!UICONTROL texto], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).

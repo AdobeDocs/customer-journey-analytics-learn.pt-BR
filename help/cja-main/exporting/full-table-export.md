@@ -1,6 +1,6 @@
 ---
 title: Exportação de tabela completa no Customer Journey Analytics
-description: Saiba mais sobre a configuração básica de um delivery de tabela do Customer Journey Analytics para a Data Landing Zone e o Snowflake da AEP.
+description: Saiba mais sobre a configuração básica de uma entrega de tabela do Customer Journey Analytics para a AEP Data Landing Zone e a Snowflake.
 feature: Curate and Share
 role: User
 level: Intermediate
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Exportação de tabela completa no Customer Journey Analytics
 
-Saiba mais sobre a configuração básica de um delivery de tabela do Customer Journey Analytics para a Data Landing Zone e o Snowflake da AEP. Para obter a documentação detalhada, visite [Exportar relatórios de Customer Journey Analytics para a nuvem](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=pt-BR).
+Saiba mais sobre a configuração básica de uma entrega de tabela do Customer Journey Analytics para a AEP Data Landing Zone e a Snowflake. Para obter a documentação detalhada, visite [Exportar relatórios do Customer Journey Analytics para a nuvem](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

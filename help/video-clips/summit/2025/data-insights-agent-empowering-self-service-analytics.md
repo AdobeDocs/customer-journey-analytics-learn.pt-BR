@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore como o Data Insights Agent permite que os usuários façam perguntas em linguagem natural e gerem insights acionáveis em segundos.
 
 <!-- 62_S106_3442453_59_data-insights-agent-empowering-selfservice-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3459884/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458304/?learn=on&enablevpops=true)

@@ -1,6 +1,6 @@
 ---
 title: Funil
-description: Saiba como o funil no Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito nele.
+description: Saiba como o funnel no Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,12 +18,12 @@ ht-degree: 8%
 
 # Funil
 
-Saiba como o **funil** do Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito.
+Saiba como o **funnel** no Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431282/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-Você também pode comparar vários eventos em uma única etapa de funil, criando um &quot;funil bifurcado&quot;. Esse &quot;funil bifurcado&quot; permite comparar o atrito de duas jornadas lado a lado, o que pode ser útil quando houver opções de etapa ou um experimento A/B estiver sendo executado no funil.
+Você também pode comparar vários eventos em uma única etapa do funnel, criando uma &quot;funnel bifurcada&quot;. Esse &quot;forked funnel&quot; permite comparar o atrito de duas jornadas lado a lado, o que pode ser útil quando há opções de etapa ou um experimento A/B está sendo executado no funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445804/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/funnel/friction).

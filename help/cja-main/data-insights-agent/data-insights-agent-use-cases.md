@@ -1,6 +1,6 @@
 ---
 title: Casos de uso do Data Insights Agent
-description: Simplifique a análise usando consultas de linguagem natural, visualizações em tempo real e tabelas de forma livre. Aumente a eficiência no desenvolvimento de estratégias de marketing, no gerenciamento de campanhas e nos relatórios de desempenho comercial.
+description: Simplifique a análise usando consultas de linguagem natural, visualizações em tempo real e tabelas de forma livre. Aumente a eficiência no desenvolvimento de estratégias de marketing, no gerenciamento de campanhas e nos relatórios de desempenho empresarial.
 feature: AI Tools
 role: Leader, User
 level: Beginner
@@ -8,10 +8,11 @@ doc-type: Feature Video
 duration: 249
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18321
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+exl-id: 118aed9a-e9ff-42b2-9110-9ef1a5f8c585
+source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 43%
 
 ---
 
@@ -21,4 +22,4 @@ Simplifique a análise usando consultas de linguagem natural, visualizações em
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463913/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)

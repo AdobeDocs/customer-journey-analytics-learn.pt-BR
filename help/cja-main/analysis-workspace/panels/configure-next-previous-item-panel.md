@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como gerar tabelas e visualizações rapidamente para identificar o item seguinte ou anterior de um valor de dimensão específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417366/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Exibir, solucionar problemas e modificar configurações de conexão
-description: O Gerenciador de conexões permite verificar o status da assimilação dos conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no espaço de trabalho.
+description: O Gerenciador de conexões permite verificar o status da ingestão dos conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no espaço de trabalho.
 feature: Connections
 topic: Administration
 doc-type: feature video
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Exibir, solucionar problemas e modificar configurações de conexão
 
-O Gerenciador de conexões permite verificar o status da assimilação dos conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no espaço de trabalho. Saiba como identificar discrepâncias de dados devido a configurações incorretas, gerenciar datas de importação de dados e remover conjuntos de dados de conexões.
+O Gerenciador de conexões permite verificar o status da ingestão dos conjuntos de dados da sua conexão. Essa interface também informa quando os dados estão disponíveis para iniciar a análise no espaço de trabalho. Saiba como identificar discrepâncias de dados devido a configurações incorretas, gerenciar datas de importação de dados e remover conjuntos de dados de conexões.
 
->[!VIDEO](https://video.tv.adobe.com/v/345575/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)

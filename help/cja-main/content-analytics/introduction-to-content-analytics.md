@@ -25,7 +25,7 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 O Content Analytics usa a infraestrutura de IA e Experience Platform para revelar o que torna o conteúdo eficaz. As equipes podem otimizar melhor o engajamento, impulsionar conversões e tomar decisões mais inteligentes com base em dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457315/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Como funciona
@@ -41,7 +41,7 @@ O Content Analytics usa a infraestrutura de IA e Experience Platform para revela
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Como funciona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457432/?format=jpeg&nocache=1742338375674&captions=por_br" alt="Content Analytics - Como funciona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Como funciona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,7 +49,7 @@ O Content Analytics usa a infraestrutura de IA e Experience Platform para revela
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Como funciona">Análise de conteúdo: como funciona</a>
+                        <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - Como funciona">Content Analytics: como funciona</a>
                     </p>
                     <p class="is-size-6">Saiba como o Content Analytics funciona com o Customer Journey Analytics e o Experience Platform.</p>
                 </div>
@@ -134,7 +134,7 @@ O Content Analytics usa a infraestrutura de IA e Experience Platform para revela
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Relatórios" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473042/?format=jpeg&nocache=1742338375674&captions=por_br" alt="Content Analytics - Relatórios"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Relatórios"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

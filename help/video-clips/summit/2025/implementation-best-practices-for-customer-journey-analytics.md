@@ -20,4 +20,4 @@ ht-degree: 0%
 Conheça as três principais áreas nas quais se concentrar para uma implementação bem-sucedida do Customer Journey Analytics, incluindo modelagem de dados, design de esquema e gerenciamento de identidade.
 
 <!-- 62_S655_3442541_180_implementation-best-practices-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460258/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458337/?learn=on&enablevpops=true)

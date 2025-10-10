@@ -1,5 +1,5 @@
 ---
-title: Uso de arrays de objetos
+title: Uso de matrizes de objetos
 description: Saiba como utilizar matrizes de objetos de conjuntos de dados de perfil e de pesquisa no CJA para enriquecer sua análise B2B e B2C de conexões para visualizações de dados e espaço de trabalho.
 feature: Use Cases
 role: Data Architect, Data Engineer
@@ -20,6 +20,6 @@ ht-degree: 89%
 
 Saiba como utilizar matrizes de objetos de conjuntos de dados de perfil e de pesquisa no CJA para enriquecer sua análise B2B e B2C de conexões para visualizações de dados e espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445267/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=pt-BR).

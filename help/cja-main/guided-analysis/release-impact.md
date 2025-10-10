@@ -1,6 +1,6 @@
 ---
 title: Impacto do lançamento
-description: Saiba como o impacto da versão no Customer Journey Analytics mostra uma comparação de como os indicadores principais foram executados antes e depois de uma determinada data.
+description: Saiba como o impacto da versão no Customer Journey Analytics mostra uma comparação de como os indicadores-chave eram executados antes e depois de uma determinada data.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 19%
 
 # Impacto do lançamento
 
-Saiba como o **impacto da versão** no Customer Journey Analytics mostra uma comparação de como os indicadores principais foram executados antes e depois de uma determinada data.
+Saiba como o **impacto da versão** no Customer Journey Analytics mostra uma comparação de como os indicadores-chave eram executados antes e depois de uma determinada data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423453/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).

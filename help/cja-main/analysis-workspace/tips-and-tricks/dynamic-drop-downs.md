@@ -18,10 +18,10 @@ ht-degree: 8%
 
 # Criar segmentos suspensos dinâmicos no Analysis Workspace
 
-Saiba como criar segmentos suspensos com base em uma dimensão inteira. Os itens do Dimension são atualizados dinamicamente com base no intervalo de datas usado no painel de relatórios. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Saiba como criar segmentos suspensos com base em uma dimensão inteira. Os itens do Dimension são atualizados dinamicamente com base no intervalo de datas usado no painel de relatórios. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >
 > &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446821/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)

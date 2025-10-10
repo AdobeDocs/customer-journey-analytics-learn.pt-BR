@@ -20,4 +20,4 @@ ht-degree: 0%
 Saiba por que mudar da análise baseada em dispositivos para a análise centrada no cliente é uma necessidade competitiva e como a Customer Journey Analytics oferece valor único.
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3463006/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)

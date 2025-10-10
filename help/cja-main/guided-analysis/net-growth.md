@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # Crescimento líquido
 
-Saiba como o **crescimento líquido** no Customer Journey Analytics fornece informações sobre a taxa de ganho ou perda de usuários em um período específico.
+Saiba como o **crescimento líquido** do Customer Journey Analytics fornece informações sobre a taxa de ganho ou perda de usuários em um período específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423465/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).

@@ -20,6 +20,6 @@ ht-degree: 15%
 
 Saiba como o **engajamento** no Customer Journey Analytics fornece informações sobre a frequência com que os recursos do seu produto são usados em relação ao número de pessoas que os usam.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447472?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

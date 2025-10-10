@@ -20,4 +20,4 @@ ht-degree: 0%
 Descubra as práticas recomendadas para implementar o Customer Journey Analytics, incluindo prova de conceito, soluções provisórias e estratégias de implementação completa.
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460071/?learn=on&enablevpops=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)

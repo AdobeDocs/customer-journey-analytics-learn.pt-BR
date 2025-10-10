@@ -1,6 +1,6 @@
 ---
 title: Visão geral da compilação baseada em gráfico
-description: A compilação baseada em gráficos aproveita o potencial do gráfico de identidade para alinhar identidades em aplicativos Experience Platform. Esse recurso permite que mais conjuntos de dados sejam unidos no Customer Journey Analytics usando um identificador de pessoa comum neles.
+description: A compilação baseada em gráficos aproveita o potencial do gráfico de identidade para alinhar identidades em aplicativos do Experience Platform. Esse recurso permite que mais conjuntos de dados sejam unidos na Customer Journey Analytics usando um identificador de pessoa comum neles.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # Visão geral da compilação baseada em gráfico
 
-A compilação baseada em gráficos aproveita o potencial do gráfico de identidade para alinhar identidades em aplicativos Experience Platform. Esse recurso permite que mais conjuntos de dados sejam unidos no Customer Journey Analytics usando um identificador de pessoa comum neles.
+A compilação baseada em gráficos aproveita o potencial do gráfico de identidade para alinhar identidades em aplicativos do Experience Platform. Esse recurso permite que mais conjuntos de dados sejam unidos na Customer Journey Analytics usando um identificador de pessoa comum neles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448721/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 Por meio da compilação baseada em gráfico, usando o Gráfico de identidade, obtenha uma melhor visualização da Jornada do cliente por meio do:
 
