@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Saiba como usar métodos de manipulação de sequência de caracteres para obter a parte desejada dos valores de dimensão em relatórios do Customer Journey Analytics. Depois de aplicada, a transformação de dados acontece de forma retroativa e imediata.
 
->[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417373/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=pt-BR){target="_blank"}.

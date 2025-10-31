@@ -19,7 +19,7 @@ ht-degree: 100%
 
 No Customer Journey Analytics, as Visualizações de dados são semelhantes aos Conjuntos de relatórios virtuais do Adobe Analytics; elas permitem configurar os dados que chegam ao CJA para que possam ser mais úteis para seus relatórios e análises. Este vídeo fornece uma visão geral da configuração das Visualizações de dados no Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345560/?captions=por_br&quality=12&learn=on)
 
 Consulte vídeos adicionais sobre as Visualizações de dados para descobrir funcionalidades específicas que podem aumentar a utilidade dos seus dados.
 

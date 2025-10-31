@@ -24,4 +24,4 @@ Saiba como comparar e visualizar segmentos quando usados como dimensões em proj
 >
 > &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449067/?captions=por_br&learn=on&quality=12)

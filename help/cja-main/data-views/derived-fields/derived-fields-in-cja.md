@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Saiba como criar campos derivados para criar manipulações de dados complexas em tempo real por meio de um construtor de regras personalizável e, em seguida, fazer com que a lógica seja aplicada retroativamente aos seus relatórios. Isso pode economizar um tempo significativo para garantir que os dados estejam em um formato utilizável para relatórios, análise e ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450909/?captions=por_br&learn=on)
 
 Esse recurso ajuda a melhorar a qualidade e a precisão dos dados em seus projetos devido a erros ou lacunas de dados.
 Exemplos de casos de uso:

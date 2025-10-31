@@ -19,6 +19,6 @@ ht-degree: 18%
 
 Saiba mais sobre a **linha do tempo** no Customer Journey Analytics, que ajuda a encontrar padrões de experiência, contar melhores histórias de usuário e validar a implementação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435772/?captions=por_br&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

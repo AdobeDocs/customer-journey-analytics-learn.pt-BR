@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Neste vídeo, você receberá dicas sobre como recriar [!UICONTROL segmentos] do Adobe Analytics como “[!UICONTROL filtros]” no Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36074/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR){target="_blank"}.

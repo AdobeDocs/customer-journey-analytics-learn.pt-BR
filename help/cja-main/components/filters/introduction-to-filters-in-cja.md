@@ -24,4 +24,4 @@ Os segmentos identificam subconjuntos de visitantes ou clientes com base em atri
 >
 > &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36146/?captions=por_br&quality=12&learn=on)
