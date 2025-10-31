@@ -9,7 +9,7 @@ last-substantial-update: 2023-04-23T00:00:00Z
 jira: KT-15090
 thumbnail: 3428089.jpeg
 exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 20%
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Saiba como a **frequência** no Customer Journey Analytics permite analisar o engajamento do usuário com eventos em seu produto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435807/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/trends/frequency).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.

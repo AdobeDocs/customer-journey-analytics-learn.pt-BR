@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332906.jpg
 kt: 7588
 exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -24,4 +24,4 @@ Com esse recurso de configuração da [!UICONTROL Visualização de dados], voc�
 
 ## Recursos adicionais
 
-* [Customer Journey Analytics - Documentação das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=pt-BR)
+* [Customer Journey Analytics - Documentação das visualizações de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=pt-BR){target="_blank"}

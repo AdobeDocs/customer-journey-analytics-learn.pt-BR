@@ -11,7 +11,7 @@ kt: 3960
 role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Neste vídeo, discutiremos os termos e conceitos principais no Customer Journey Analytics, como eles são mapeados para os termos e conceitos no Adobe Analytics e também onde podem ser vistos na interface do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36149/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR).
+Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR){target="_blank"}.

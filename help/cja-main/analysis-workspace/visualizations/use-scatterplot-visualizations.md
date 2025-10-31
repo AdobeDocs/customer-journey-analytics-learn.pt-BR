@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Saiba como usar a visualização [!UICONTROL gráfico de dispersão] em projetos
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações de [!UICONTROL gráfico de dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=pt-BR).
+Para obter mais informações sobre as visualizações de [!UICONTROL gráfico de dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.

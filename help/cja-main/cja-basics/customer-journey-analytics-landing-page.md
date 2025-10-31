@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 343041.jpg
 kt: 10422
 exl-id: 4c05f97d-566b-41c8-a822-56482136b04d
-source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 A página de aterrissagem do Customer Journey Analytics apresenta uma visualização padrão dos projetos e cartões de pontuação móveis e uma seção de aprendizado para ajudá-lo a começar com mais eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409311/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=pt-BR){target="_blank"}.

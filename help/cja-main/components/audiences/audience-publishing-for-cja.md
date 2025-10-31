@@ -9,7 +9,7 @@ kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
 exl-id: ea0f2a82-0975-4cb8-9bb1-07a62141489b
-source-git-commit: 8e802e60d2c035b4e3b2a5fc3a0d641e20027e28
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba como publicar públicos-alvos do Customer Journey Analytics no perfil do cliente em tempo real da Adobe Experience Platform para ativação de segmentos ou para uma orquestração de jornadas mais personalizada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414167/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=pt-BR){target="_blank"}.

@@ -9,7 +9,7 @@ last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18791
 thumbnail: 3471042.jpeg
 exl-id: d7393a83-01e1-4d4a-a979-0c1e60a25617
-source-git-commit: aa5c836356364534d19030292870a214cc29f55d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 13%
@@ -20,6 +20,6 @@ ht-degree: 13%
 
 Descubra a Codificação de tipos em campos derivados do Customer Journey Analytics. A conversão de tipos ajusta os tipos de dados do campo de esquema, como converter sequências de caracteres em numéricas ou datetime em sequências de caracteres para análise avançada. Configure e combine campos facilmente para desbloquear insights avançados para sua empresa.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471059/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)

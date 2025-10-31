@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: 8c3ecaf1bc54aa9d0d099dd5542b65a04d8ec5a8
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 O Adobe Product Analytics permite que as equipes de produtos utilizem o autoatendimento de dados e insights sobre a experiência dos seus produtos por meio de fluxos de trabalho de análise guiados, criados com mesmos dados entre canais do Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423514/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
 
 Com o Adobe Product Analytics, as equipes podem:
 
@@ -31,4 +31,4 @@ Com o Adobe Product Analytics, as equipes podem:
 * Descobrir segmentos importantes de usuários para desenvolver e gerar engajamento durante toda a jornada com o produto
 * Conecte-se ao Analysis Workspace para realizar uma análise mais profunda em colaboração com analistas
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/overview).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/overview){target="_blank"}.

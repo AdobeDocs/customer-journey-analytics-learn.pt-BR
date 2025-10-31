@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
 exl-id: a550bffe-de6c-4780-8617-c68226257258
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 16%
@@ -20,6 +20,6 @@ ht-degree: 16%
 
 Saiba como o **crescimento ativo** no Customer Journey Analytics fornece informações sobre o crescimento de usuários em um período específico, dividido por usuários novos, repetidos, retornados e inativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423398/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}.

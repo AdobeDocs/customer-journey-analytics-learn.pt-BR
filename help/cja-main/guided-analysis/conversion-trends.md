@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13672
 thumbnail: 3421662.jpeg
 exl-id: 409980dd-27f3-4d7e-984d-8b0391be7f22
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 25%
@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Saiba como as **tendências de conversão** do Customer Journey Analytics controlam as alterações nas taxas de conversão do funnel ao longo do tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423491/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html){target="_blank"}.

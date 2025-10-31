@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -25,6 +25,6 @@ Saiba como [!UICONTROL gráficos de marcadores] são usados e como adicioná-los
 >
 >A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/30760/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações do [!UICONTROL gráfico de marcadores], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=pt-BR).
+Para obter mais informações sobre as visualizações do [!UICONTROL gráfico de marcadores], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.

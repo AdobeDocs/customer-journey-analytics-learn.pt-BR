@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 8%
@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Saiba como o **funnel** no Customer Journey Analytics fornece uma representação visual de uma jornada de usuário crítica em seu produto e ajuda a determinar onde há atrito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431282/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
 Você também pode comparar vários eventos em uma única etapa do funnel, criando uma &quot;funnel bifurcada&quot;. Esse &quot;forked funnel&quot; permite comparar o atrito de duas jornadas lado a lado, o que pode ser útil quando há opções de etapa ou um experimento A/B está sendo executado no funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445804/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/funnel/friction).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"}.

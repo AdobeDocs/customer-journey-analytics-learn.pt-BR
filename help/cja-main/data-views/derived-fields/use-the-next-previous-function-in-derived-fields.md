@@ -9,7 +9,7 @@ last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15527
 thumbnail: 3430616.jpeg
 exl-id: fd11c6af-796b-4353-bab5-9dc75aac659b
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 5%
@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Descubra como usar a função &quot;Próximo ou Anterior&quot; no Customer Journey Analytics para criar campos derivados complexos que melhorem a análise de dados. Este tutorial o orienta pelo processo de configuração de uma nova dimensão que concatena valores de canal de marketing no nível do usuário, permitindo insights mais profundos sobre estratégias de marketing e geração de receita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447738/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

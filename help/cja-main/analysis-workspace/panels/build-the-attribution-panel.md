@@ -9,7 +9,7 @@ thumbnail: 3464718.jpg
 kt: 17504
 last-substantial-update: 2025-07-08T00:00:00Z
 exl-id: 5412e4a2-e3d8-4c46-9432-4aa134043593
-source-git-commit: a3eec99806a31df26eefde97f348802cd26e8d05
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 12%
@@ -20,6 +20,6 @@ ht-degree: 12%
 
 Saiba como usar o painel de atribuição no [!DNL Customer Journey Analytics]. Este vídeo demonstra como definir métricas de sucesso, selecionar e comparar modelos de atribuição e personalizar visualizações como gráficos de barras, diagramas de Venn e fluxo de canal para obter insights sobre as interações de jornada do cliente.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/panels/attribution).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464727/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
