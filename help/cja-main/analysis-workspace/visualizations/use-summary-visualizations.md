@@ -27,4 +27,4 @@ Saiba como usar as visualizações do [!UICONTROL resumo] em projetos [!DNL Anal
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações de [!UICONTROL resumo], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Para obter mais informações sobre as visualizações de [!UICONTROL resumo], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=pt-BR){target="_blank"}.

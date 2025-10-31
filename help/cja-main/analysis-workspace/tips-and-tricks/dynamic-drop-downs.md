@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Criar segmentos suspensos dinâmicos no Analysis Workspace
 
-Saiba como criar segmentos suspensos com base em uma dimensão inteira. Os itens do Dimension são atualizados dinamicamente com base no intervalo de datas usado no painel de relatórios. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
+Saiba como criar segmentos suspensos com base em uma dimensão inteira. Os itens do Dimension são atualizados dinamicamente com base no intervalo de datas usado no painel de relatórios. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
 
 >[!NOTE]
 >

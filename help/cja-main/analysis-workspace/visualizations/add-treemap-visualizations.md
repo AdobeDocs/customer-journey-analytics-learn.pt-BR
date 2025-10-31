@@ -27,4 +27,4 @@ Saiba como adicionar e configurar a visualização do [!UICONTROL mapa de árvor
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações do [!UICONTROL mapa de árvore], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.
+Para obter mais informações sobre as visualizações do [!UICONTROL mapa de árvore], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=pt-BR){target="_blank"}.

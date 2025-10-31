@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # Visão geral dos segmentos
 
-Os segmentos identificam subconjuntos de visitantes ou clientes com base em atributos e eventos, como visitantes de sites ou envolvimento da central de atendimento. Saiba mais sobre os principais componentes do Construtor de segmentos no Customer Journey Analytics. Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
+Os segmentos identificam subconjuntos de visitantes ou clientes com base em atributos e eventos, como visitantes de sites ou envolvimento da central de atendimento. Saiba mais sobre os principais componentes do Construtor de segmentos no Customer Journey Analytics. Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >
