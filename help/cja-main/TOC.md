@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
+source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 77%
+source-wordcount: '576'
+ht-degree: 75%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 77%
 + Noções básicas do Customer Journey Analytics {#cja-basics}
    + [O que é o Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Introdução ao Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Introdução ao Customer Journey Analytics - B2B edition](cja-basics/cja-b2b-overview.md)
    + [Novos termos e conceitos](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Página de aterrisagem do Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
    + [Usar o assistente de IA](cja-basics/use-ai-assistant.md)
++ Customer Journey Analytics B2B Edition {#b2b}
+   + [Introdução ao Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition - Além das primeiras perguntas](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [Integrar o CJA com o Marketo para insights B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Arquitetura {#architecture}
    + [Arquitetura e integrações](architecture/architecture-and-integrations-of-cja.md)
 + Preparação e planejamento de dados {#data-prep}
@@ -160,6 +163,6 @@ ht-degree: 77%
    + Dados complexos {#complex-data}
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
