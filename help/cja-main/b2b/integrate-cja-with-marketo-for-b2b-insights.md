@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra como a integração do Customer Journey Analytics com o Marketo aprimora a análise de dados B2B. Concentre-se na contribuição do canal de marketing, no impacto na receita e na eficácia da campanha por cargo. Essa integração ajuda você a entender como os esforços de marketing estimulam oportunidades, especialmente para executivos de alto nível, usando modelos de atribuição avançados e estratégias de direcionamento de público-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477507/?captions=por_br&learn=on)
