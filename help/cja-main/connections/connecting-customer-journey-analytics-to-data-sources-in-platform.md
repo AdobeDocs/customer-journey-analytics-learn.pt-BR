@@ -20,4 +20,4 @@ ht-degree: 100%
 
 O Customer Journey Analytics utiliza os conjuntos de dados assimilados na Adobe Experience Platform. Antes de iniciar a análise de dados no espaço de trabalho, é necessário criar uma conexão. Saiba mais sobre a arquitetura do Customer Journey Analytics, casos de uso, planejamento, permissões necessárias e as etapas para criar uma conexão.
 
->[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33188/?captions=por_br&quality=12&learn=on)

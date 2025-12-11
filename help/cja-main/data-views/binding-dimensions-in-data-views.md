@@ -18,4 +18,4 @@ ht-degree: 100%
 
 As dimensões de ligação são um recurso interessante no Customer Journey Analytics, que oferecem a capacidade de selecionar uma dimensão e conectá-la a outra dimensão para otimizar a alocação de persistência. Geralmente, encontramos situações em que recebemos valores diferentes durante a jornada de um usuário e precisamos decidir como alocar essas métricas de sucesso. A dimensão de ligação é uma maneira de ajudar a resolver alguns dos principais cenários.
 
->[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409296/?captions=por_br&quality=12&learn=on)
