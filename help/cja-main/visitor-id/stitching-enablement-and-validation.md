@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo orienta você na habilitação da compilação em qualquer conjunto de dados de evento. Além disso, uma vez habilitada a compilação em um conjunto de dados, ela ajudará a mostrar diferentes métricas e dimensões que você pode usar para validar se está funcionando e o valor que está trazendo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478125/?captions=por_br&learn=on&enablevpops)
