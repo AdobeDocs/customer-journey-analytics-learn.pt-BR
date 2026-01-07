@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Saiba como identificar e filtrar o tráfego gerado por IA no Adobe Customer Journey Analytics usando campos derivados, segmentos e projetos do Workspace para garantir insights precisos e focados no cliente. Este tutorial rápido para administradores e profissionais de marketing mostra a configuração passo a passo para detectar bots do LLM por meio de agentes de usuário, referenciadores e muito mais, mantendo seus dados limpos e acionáveis.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} do Content Analytics.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} do Content Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
