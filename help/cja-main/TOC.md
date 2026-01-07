@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
+source-git-commit: e97a621c4ccc75fbbdc08c270848d7c66ac2b072
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 75%
+source-wordcount: '584'
+ht-degree: 74%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 75%
    + [O que é o Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Introdução ao Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Novos termos e conceitos](cja-basics/new-terms-and-concepts-in-cja.md)
-   + [Página de aterrisagem do Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
+   + [Página de destino do Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
    + [Usar o assistente de IA](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Introdução ao Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
@@ -157,12 +157,14 @@ ht-degree: 75%
 + Integração do Experience Platform {#experience-platform-integration}
    + [Relatórios aprimorados do Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casos de uso {#use-cases}
+   + Inteligência Artificial {#ai}
+      + [Rastrear e analisar o tráfego de IA](use-cases/ai/track-and-analyze-ai-traffic.md)
    + Casos de uso de visualizações de dados {#data-views-use-cases}
       + [Relatórios de primeiras sessões e sessões recorrentes](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Suporte ao campo de data de uso](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Dados complexos {#complex-data}
       + [Uso de matrizes de objetos](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint do Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Cenário de consolidação de dados de comportamento digital](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Cenário de análise de jornada de desvio de chamadas](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
