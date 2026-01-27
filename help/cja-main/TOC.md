@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 6e704c5eed318c044e3871e3821a35e4552a5b86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '589'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 99%
    + Anotações {#annotations}
       + [Criar uma anotação](analysis-workspace/annotations/create-an-annotation.md)
    + Preparar e compartilhar {#curate-and-share}
-      + [Data Storytelling: Gerar apresentações de slide](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
+      + [Narração de histórias com dados: gerar apresentações de slides](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
       + [Compartilhar com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Dicas e truques {#tips-and-tricks}
       + [Criar segmentos suspensos dinâmicos](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
