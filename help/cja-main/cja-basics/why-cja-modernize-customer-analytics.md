@@ -22,4 +22,4 @@ Descubra como o Adobe Customer Journey Analytics (CJA), integrado no Adobe Exper
 
 Para obter mais informações, revise as [principais considerações antes de migrar para o CJA](https://experienceleague.adobe.com/pt-br/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479331/?captions=por_br&learn=on&enablevpops)

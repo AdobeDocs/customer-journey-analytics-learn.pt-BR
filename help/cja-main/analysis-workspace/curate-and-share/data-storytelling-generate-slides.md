@@ -22,4 +22,4 @@ Descubra o poderoso recurso [!DNL Data Storytelling] do Adobe Customer Journey A
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479124/?captions=por_br&learn=on&enablevpops)
