@@ -2,29 +2,23 @@
 title: Adicionar visualizações de área a  [!DNL Analysis Workspace]  projetos
 description: Saiba como adicionar visualizações de área e de área empilhada a [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics].
 feature: Visualizations
-doc-type: technical video
-team: Technical Marketing
 thumbnail: 334261.jpg
-kt: 13491
+kt: 13401
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-06T00:00:00Z
 exl-id: b9bdf5d0-e5e6-4b55-8958-c38f9ce444f5
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 73bde85dc1631aca4530fee01d4b06a792b65f0e
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 # Adicionar [!UICONTROL visualizações de área] a [!DNL Analysis Workspace] projetos em [!DNL Customer Journey Analytics]
 
-Saiba como adicionar visualizações de [!UICONTROL área] e [!UICONTROL área empilhada] a [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]. Essas visualizações são ideais para serem usadas quando há várias métricas para as quais você deseja visualizar a área com base na interseção de duas ou mais métricas.
+Saiba como adicionar visualizações de [!UICONTROL área] e [!UICONTROL área empilhada] a [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]. Essas visualizações são ideais para serem usadas quando há várias métricas para as quais você deseja visualizar a área com base na interseção.
 
->[!NOTE]
->
->A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
+>[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
-
-Para obter mais informações sobre as visualizações da [!UICONTROL área], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=pt-BR){target="_blank"}.
+Para obter mais informações sobre as visualizações da [!UICONTROL área], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.
