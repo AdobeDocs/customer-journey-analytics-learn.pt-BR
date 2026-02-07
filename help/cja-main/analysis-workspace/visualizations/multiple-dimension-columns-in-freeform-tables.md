@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Torne suas tabelas de forma livre ainda mais poderosas com o recurso Várias colunas do Dimension no CJA. Além dos detalhamentos de dimensão padrão, é possível analisar os dados da dimensão lado a lado para criar pares relacionais a fim de melhor representar e entender seus dados. A capacidade de classificação avançada também oferece mais flexibilidade para manipular as tabelas e exibir os dados da maneira que você desejar. Para obter mais informações, visite a [documentação.](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479519/?captions=por_br&learn=on&enablevpops)

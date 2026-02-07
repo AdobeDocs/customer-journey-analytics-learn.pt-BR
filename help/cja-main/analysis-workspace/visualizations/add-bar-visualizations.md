@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Saiba como adicionar e configurar visualizações padrão de [!UICONTROL barra] e [!UICONTROL barra empilhada] em projetos [!DNL Analysis Workspace] no [!DNL Customer Journey Analytics]. Eles usam formações [!UICONTROL bar] para representar valores em métricas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479608/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre visualizações de [!UICONTROL barra], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=pt-BR){target="_blank"}.
