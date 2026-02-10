@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Saiba como configurar visualizações totalmente empilhadas usando porcentagens em vez de valores brutos em projetos Analysis Workspace no Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479702/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre [!UICONTROL visualizações de var] totalmente empilhadas, visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=pt-BR){target="_blank"}.
