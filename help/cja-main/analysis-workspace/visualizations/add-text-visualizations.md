@@ -22,4 +22,4 @@ Saiba como adicionar e configurar visualizações de texto em projetos do Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-Para obter mais informações sobre visualizações de [!UICONTROL texto], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.
+Para obter mais informações sobre visualizações de [!UICONTROL texto], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=pt-BR){target="_blank"}.
