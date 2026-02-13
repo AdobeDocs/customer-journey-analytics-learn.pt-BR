@@ -20,4 +20,4 @@ Saiba como adicionar e configurar visualizações de [!UICONTROL rosca] para [!D
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações de [!UICONTROL rosca], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html){target="_blank"}.
+Para obter mais informações sobre as visualizações de [!UICONTROL rosca], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=pt-BR){target="_blank"}.
