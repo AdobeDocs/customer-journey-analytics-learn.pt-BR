@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Saiba como adicionar e configurar visualizações de [!UICONTROL rosca] para [!DNL Analysis Workspace] projetos em [!DNL Customer Journey Analytics]. Essa visualização é ideal para usar ao comparar porcentagens de um total de alguns itens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479884/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre as visualizações de [!UICONTROL rosca], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=pt-BR){target="_blank"}.
