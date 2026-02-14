@@ -22,4 +22,4 @@ Descubra como a Análise de público-alvo permite que os profissionais de market
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479809/?captions=por_br&learn=on&enablevpops)
