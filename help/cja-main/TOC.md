@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
+source-git-commit: 23acbd278efd0b6bbbac65fa02b6a703790c3aef
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 97%
+source-wordcount: '609'
+ht-degree: 95%
 
 ---
 
@@ -99,8 +99,8 @@ ht-degree: 97%
       + [Configurar e usar a visualização de mapa](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Adicionar visualizações de resumo](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Adicionar visualizações de texto](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [Usar a visualização de gráfico de dispersão](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Adicionar a visualização do mapa de árvore](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Adicionar visualizações de gráfico de dispersão](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Adicionar visualizações de mapa de árvore](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Criar visualizações 100% empilhadas](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Adicionar previsão à sua visualização](analysis-workspace/visualizations/forecasting.md)
    + Anotações {#annotations}
