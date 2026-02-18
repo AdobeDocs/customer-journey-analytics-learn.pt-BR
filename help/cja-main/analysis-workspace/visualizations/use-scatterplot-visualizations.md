@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Saiba como usar a visualização [!UICONTROL dispersão] em projetos [!DNL Analysis Workspace] no [!DNL Customer Journey Analytics]. Essa visualização mostra a relação entre itens de dimensão e até três métricas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479974/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre as visualizações de [!UICONTROL dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=pt-BR){target="_blank"}.
