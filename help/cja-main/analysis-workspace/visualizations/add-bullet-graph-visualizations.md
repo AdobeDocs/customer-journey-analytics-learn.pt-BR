@@ -20,4 +20,4 @@ Saiba como [!UICONTROL gráficos de marcadores] são usados e como adicioná-los
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações do [!UICONTROL gráfico de marcadores], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.
+Para obter mais informações sobre as visualizações do [!UICONTROL gráfico de marcadores], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=pt-BR){target="_blank"}.

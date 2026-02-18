@@ -20,4 +20,4 @@ Saiba como usar a visualização [!UICONTROL dispersão] em projetos [!DNL Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Para obter mais informações sobre as visualizações de [!UICONTROL dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Para obter mais informações sobre as visualizações de [!UICONTROL dispersão], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=pt-BR){target="_blank"}.
