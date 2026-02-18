@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Saiba como [!UICONTROL gráficos de marcadores] são usados e como adicioná-los a [!DNL Analysis Workspace] projetos no [!DNL Customer Journey Analytics]. Este gráfico mostra como um valor de interesse se compara a ou se compara a metas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479963/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre as visualizações do [!UICONTROL gráfico de marcadores], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=pt-BR){target="_blank"}.
