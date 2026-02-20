@@ -22,4 +22,4 @@ Descubra como os relatórios em tempo real no Adobe Customer Journey Analytics f
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479949/?captions=por_br&learn=on&enablevpops)
