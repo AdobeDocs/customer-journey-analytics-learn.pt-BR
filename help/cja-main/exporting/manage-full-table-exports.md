@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como administrar e gerenciar exportações de tabela completas no Customer Journey Analytics.  Esses recursos capacitam os administradores do CJA a simplificar a supervisão, reduzir as verificações manuais, aprimorar a automação e garantir a entrega confiável de dados para destinos em nuvem. Para obter mais detalhes, visite a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480085/?captions=por_br&learn=on)
