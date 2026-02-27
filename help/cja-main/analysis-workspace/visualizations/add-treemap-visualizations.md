@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Saiba como adicionar e configurar a visualização do [!UICONTROL mapa de árvore] em projetos [!DNL Analysis Workspace] no [!DNL Customer Journey Analytics]. Essa visualização cria dados hierárquicos como um conjunto de retângulos aninhados e permite que você veja facilmente padrões que seriam difíceis de detectar de outra forma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480261/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre as visualizações do [!UICONTROL mapa de árvore], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=pt-BR){target="_blank"}.
