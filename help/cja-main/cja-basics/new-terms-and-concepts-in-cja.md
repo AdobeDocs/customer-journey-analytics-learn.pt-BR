@@ -24,6 +24,6 @@ ht-degree: 5%
 
 Saiba como traduzir seu conhecimento existente sobre o Adobe Analytics no Customer Journey Analytics, mapeando conceitos familiares como métricas principais, conjuntos de relatórios, variáveis e muito mais, para equivalentes do CJA. Este vídeo de alto nível explica a relação do CJA com o Experience Platform e mostra onde encontrar esses termos mapeados na interface do.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
