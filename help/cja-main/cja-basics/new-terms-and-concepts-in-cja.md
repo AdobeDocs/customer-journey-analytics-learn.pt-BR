@@ -1,6 +1,6 @@
 ---
-title: Novos termos e conceitos no Customer Journey Analytics
-description: Neste vídeo, discutiremos os principais termos e conceitos no Adobe Customer Journey Analytics, como eles são mapeados para os termos e conceitos no Adobe Analytics e também onde podem ser vistos na interface do Customer Journey Analytics.
+title: Analytics para CJA - Novos termos e como eles são mapeados
+description: Saiba como traduzir seu conhecimento existente sobre o Adobe Analytics no Customer Journey Analytics, mapeando conceitos familiares como métricas principais, conjuntos de relatórios, variáveis e muito mais, para equivalentes do CJA.
 feature: Workspace Basics
 topics: null
 activity: use
@@ -8,20 +8,22 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: User
+role: Admin, User
 level: Beginner
+duration: 410
+last-substantial-update: 2026-03-11T00:00:00Z
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
-# Novos termos e conceitos no Customer Journey Analytics
+# Analytics para CJA - Novos termos e como eles são mapeados
 
-Neste vídeo, discutiremos os termos e conceitos principais no Customer Journey Analytics, como eles são mapeados para os termos e conceitos no Adobe Analytics e também onde podem ser vistos na interface do Customer Journey Analytics.
+Saiba como traduzir seu conhecimento existente sobre o Adobe Analytics no Customer Journey Analytics, mapeando conceitos familiares como métricas principais, conjuntos de relatórios, variáveis e muito mais, para equivalentes do CJA. Este vídeo de alto nível explica a relação do CJA com o Experience Platform e mostra onde encontrar esses termos mapeados na interface do.
 
->[!VIDEO](https://video.tv.adobe.com/v/36149/?captions=por_br&quality=12&learn=on)
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
-Para obter mais informações sobre o Customer Journey Analytics, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR){target="_blank"}.
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
