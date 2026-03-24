@@ -21,6 +21,6 @@ Saiba mais sobre o recurso de visualização do conjunto de dados na Customer Jo
 
 Avalie a adequação do conjunto de dados para relatórios confiáveis entre dispositivos e canais antes da assimilação, reduzindo drasticamente o tempo de retorno do valor e evitando riscos para as decisões de estratégia de identidade com insights em tempo real.
 
-Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
