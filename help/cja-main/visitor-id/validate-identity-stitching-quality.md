@@ -23,4 +23,4 @@ Avalie a adequação do conjunto de dados para relatórios confiáveis entre dis
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481897/?captions=por_br&learn=on&enablevpops)
