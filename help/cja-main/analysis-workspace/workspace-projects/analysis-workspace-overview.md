@@ -21,4 +21,4 @@ ht-degree: 100%
 
 O [!DNL Analysis Workspace] é um ambiente flexível para análise de forma livre usado para explorar e visualizar dados da [!DNL Experience Platform]. Saiba mais sobre os componentes básicos usados para criar projetos e painéis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450601/?captions=por_br&quality=12&learn=on)
