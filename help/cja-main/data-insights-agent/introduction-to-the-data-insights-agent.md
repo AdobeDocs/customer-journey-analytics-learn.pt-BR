@@ -8,29 +8,30 @@ duration: 222
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
-source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 30%
+source-wordcount: '202'
+ht-degree: 99%
 
 ---
 
 # Introdução ao [!DNL Data Insights Agent]
 
-O [!DNL Data Insights Agent], viabilizado pelo Experience Platform Agent Orchestrator da Adobe, revoluciona a orquestração de experiências do cliente para profissionais de marketing e usuários empresariais. Ele aproveita a IA gerativa para fornecer insights personalizados em tempo real por meio de consultas de linguagem natural, eliminando os gargalos tradicionais dos analistas.
+O [!DNL Data Insights Agent], viabilizado pelo Experience Platform Agent Orchestrator da Adobe, revoluciona a orquestração de experiências do cliente para profissionais de marketing e usuários empresariais. Ele utiliza a IA generativa para fornecer insights personalizados em tempo real por meio de consultas em linguagem natural, eliminando os gargalos tradicionais que os analistas enfrentam.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} do Data Insights Agent.
+Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"} do Data Insights Agent.
 
 ## Introdução
 
-Saiba mais sobre o [!DNL Data Insights Agent] no Customer Journey Analytics. Essa solução orientada por IA fornece insights instantâneos e transparentes para profissionais de marketing e partes interessadas, eliminando atrasos e treinamentos abrangentes e, ao mesmo tempo, liberando os analistas para tarefas estratégicas.
+Saiba mais sobre o [!DNL Data Insights Agent] no Customer Journey Analytics. Esta solução orientada por IA fornece insights instantâneos e transparentes a profissionais de marketing e partes interessadas, eliminando atrasos e treinamentos abrangentes, e, ao mesmo tempo, liberando os analistas para tarefas estratégicas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463902/?captions=por_br&learn=on&enablevpops)
 
 
 ## Casos de uso do Data Insights Agent
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * data-insights-agent-use-cases.md
 -->
@@ -51,7 +52,7 @@ Saiba mais sobre o [!DNL Data Insights Agent] no Customer Journey Analytics. Ess
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Casos de uso do Data Insights Agent">Casos de uso do Data Insights Agent</a>
                     </p>
-                    <p class="is-size-6">Aumente a eficiência no desenvolvimento de estratégias de marketing, no gerenciamento de campanhas e nos relatórios de desempenho empresarial.</p>
+                    <p class="is-size-6">Aumente a eficiência no desenvolvimento de estratégias de marketing, no gerenciamento de campanhas e na geração de relatórios de desempenho empresarial.</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
@@ -64,7 +65,8 @@ Saiba mais sobre o [!DNL Data Insights Agent] no Customer Journey Analytics. Ess
 
 ## Usar o Data Insights Agent
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * use-the-data-insights-agent.md
 -->
@@ -85,7 +87,7 @@ Saiba mais sobre o [!DNL Data Insights Agent] no Customer Journey Analytics. Ess
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="Usar o Data Insights Agent">Usar o Data Insights Agent</a>
                     </p>
-                    <p class="is-size-6">Analise dados usando prompts de linguagem natural, gerando tabelas de forma livre, visualizações e comparações de dados.</p>
+                    <p class="is-size-6">Analise dados por meio de prompts em linguagem natural, gerando tabelas de forma livre, visualizações e comparações de dados.</p>
                 </div>
                 <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
