@@ -19,4 +19,4 @@ ht-degree: 0%
 Veja como os Campos derivados embutidos capacitam os usuários a limpar e agrupar dados diretamente no Customer Journey Analytics, reduzindo a dependência de administradores e economizando tempo.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460291/?captions=por_br&learn=on&enablevpops=true)
