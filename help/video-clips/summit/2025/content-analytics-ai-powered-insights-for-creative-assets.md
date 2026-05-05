@@ -19,4 +19,4 @@ ht-degree: 0%
 Dê uma olhada no Content Analytics, um novo recurso do CJA que usa IA para analisar ativos criativos e seu desempenho.
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462962/?captions=por_br&learn=on&enablevpops=true)
