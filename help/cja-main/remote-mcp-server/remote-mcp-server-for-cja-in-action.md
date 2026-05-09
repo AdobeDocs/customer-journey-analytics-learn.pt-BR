@@ -22,4 +22,4 @@ Saiba como conectar ferramentas de IA, como Claude, ChatGPT ou Cursor, ao servid
 
 Para mais informações, consulte a [documentação](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} do Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486330/?captions=por_br&learn=on&enablevpops)
