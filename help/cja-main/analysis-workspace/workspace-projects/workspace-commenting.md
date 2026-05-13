@@ -35,4 +35,4 @@ ht-degree: 84%
 
 Saiba como os comentários do Workspace no Adobe Customer Journey Analytics permitem que você e sua equipe colaborem diretamente nos seus dados. Faça perguntas, compartilhe insights e crie consenso sem sair da análise. Saiba mais acessando a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469451/?captions=por_br&learn=on&enablevpops)

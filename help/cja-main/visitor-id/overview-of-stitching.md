@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Considerando que várias pessoas interagem com o seu conteúdo em diversos canais e dispositivos, é cada vez mais importante conectar os eventos não autenticados aos autenticados. Isso permite uma abordagem mais holística aos relatórios e à ativação final. Este vídeo apresenta uma visão geral rápida do processo de compilação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452552/?captions=por_br&learn=on)

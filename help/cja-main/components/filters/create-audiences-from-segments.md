@@ -41,4 +41,4 @@ Saiba como criar e publicar públicos-alvo do Customer Journey Analytics na Real
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471278/?captions=por_br&learn=on)

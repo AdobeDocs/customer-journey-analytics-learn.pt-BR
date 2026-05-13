@@ -34,4 +34,4 @@ Simplifique a análise, usando consultas de linguagem natural, visualizações e
 
 Para mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463913/?captions=por_br&learn=on&enablevpops)

@@ -38,4 +38,4 @@ Com as pesquisas do CJA sobre dados de perfil e pesquisa, os usuários podem uti
 
 Para conferir a documentação detalhada, acesse [Tipos de conjunto de dados](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=pt-br#dataset-types){target="_blank"} e [Adicionar dados na camada das contas como um conjunto de dados de pesquisa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=pt-br){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449875/?captions=por_br&learn=on)

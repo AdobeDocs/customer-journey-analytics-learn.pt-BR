@@ -44,7 +44,7 @@ Para mais informações, consulte a [documentação](https://experienceleague.ad
 
 O Content Analytics usa a IA e a infraestrutura da Experience Platform para revelar o que torna o conteúdo eficaz. As equipes podem otimizar melhor o engajamento, promover conversões e tomar decisões mais inteligentes com base em dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457315/?captions=por_br&learn=on&enablevpops)
 
 
 ## Como funciona
@@ -61,7 +61,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics: como funciona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics: como funciona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457432/?captions=por_br&format=jpeg&nocache=1742338375674" alt="Content Analytics: como funciona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics: geração de relatórios" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics: geração de relatórios"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473042/?captions=por_br&format=jpeg&nocache=1742338375674" alt="Content Analytics: geração de relatórios"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

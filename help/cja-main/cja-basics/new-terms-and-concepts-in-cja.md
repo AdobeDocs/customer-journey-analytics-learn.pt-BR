@@ -41,4 +41,4 @@ Saiba como usar seu conhecimento sobre o Adobe Analytics no Customer Journey Ana
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36149/?captions=por_br&quality=12&learn=on)

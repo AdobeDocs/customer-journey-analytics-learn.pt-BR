@@ -32,6 +32,6 @@ ht-degree: 30%
 
 Saiba mais sobre a visualização da tela de jornada, que permite analisar e obter insights profundos sobre as jornadas que você fornece aos usuários e clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440631/?captions=por_br&learn=on)
 
 Os usuários podem criar jornadas com vários inícios, caminhos ou fins. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.
