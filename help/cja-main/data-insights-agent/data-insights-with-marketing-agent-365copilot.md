@@ -32,6 +32,6 @@ ht-degree: 0%
 
 Assista a uma demonstração do [!DNL Adobe Marketing Agent] em [!DNL Microsoft Teams], enquanto um profissional de marketing faz perguntas em linguagem natural sobre dados de análise e obtém visualizações e dados do Customer Journey Analytics.
 
-Assista a estes vídeos para saber mais sobre outros [fluxos de trabalho de marketing](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"} com suporte, bem como sobre a [introdução](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}, incluindo pré-requisitos, acesso a dados e permissões.
+Assista a estes vídeos para saber mais sobre outros [fluxos de trabalho de marketing](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"} com suporte, bem como sobre a [introdução](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}, incluindo pré-requisitos, acesso a dados e permissões.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491199/?captions=por_br&learn=on&enablevpops)
