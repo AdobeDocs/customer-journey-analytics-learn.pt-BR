@@ -20,5 +20,5 @@ ht-degree: 75%
 
 Ao inserir visualizações no Analysis Workspace, há algumas maneiras diferentes de adicionar dados a elas, dependendo do tipo de visualização. Este vídeo demonstra esses métodos. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491936/?captions=por_br&learn=on&enablevpops)
 
