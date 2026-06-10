@@ -26,4 +26,4 @@ ht-degree: 8%
 
 Ao adicionar ou criar uma visualização a partir de um valor de dimensão, você pode selecionar diferentes valores de dimensão e alterar o gráfico dinamicamente ou bloquear a visualização para permanecer em uma dimensão ou local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492125/?captions=por_br&learn=on&enablevpops)
