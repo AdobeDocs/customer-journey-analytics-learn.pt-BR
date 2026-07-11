@@ -20,4 +20,4 @@ ht-degree: 46%
 
 Use as listas suspensas de componentes para escolher de uma lista de componentes compatíveis para criar suas visualizações. Você também poderá criar novos componentes diretamente na lista suspensa se não encontrar o que precisa. Esses espaços também continuarão a funcionar como zonas de lançamento se você tiver um caso de uso mais avançado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493208/?captions=por_br&learn=on&enablevpops)
