@@ -24,5 +24,5 @@ ht-degree: 78%
 
 Neste vídeo, veja como tabelas e visualizações são vinculadas por meio de configurações e saiba como definir essas configurações para diferentes casos de uso de análise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495952/?captions=por_br&learn=on&enablevpops)
 
