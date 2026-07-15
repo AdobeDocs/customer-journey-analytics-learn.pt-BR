@@ -28,4 +28,4 @@ ht-degree: 95%
 
 Personalizar as legendas em suas visualizações, também conhecido como edição de rótulo de série, é uma ótima maneira de tornar as suas visualizações mais compreensíveis para todos que olham os relatórios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495837/?captions=por_br&learn=on&enablevpops)
