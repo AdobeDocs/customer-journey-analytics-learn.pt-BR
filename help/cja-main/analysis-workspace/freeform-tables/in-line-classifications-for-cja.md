@@ -26,4 +26,4 @@ ht-degree: 0%
 
 As Classificações embutidas para CJA permitem fazer edições instantâneas diretamente no Analysis Workspace, atualizando um valor em uma tabela ou agrupando vários valores juntos. Ela traz uma pequena, mas eficiente parte da funcionalidade Campos derivados diretamente para a experiência do Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496556/?captions=por_br&learn=on&enablevpops)
