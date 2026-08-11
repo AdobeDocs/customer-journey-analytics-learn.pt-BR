@@ -23,6 +23,6 @@ Manter a consistência dos dados do cliente em data warehouses de nuvem e no [!D
 
 O Data Mirror simplifica esse processo, refletindo automaticamente as alterações de data warehouses em nuvem compatíveis, como Snowflake, BigQuery e Databricks, para o CJA. Ao reduzir o esforço manual e manter os sistemas alinhados, as equipes podem confiar que os dados usados para a análise permanecem atualizados. Este vídeo demonstra como o Data Mirror funciona e percorre as etapas para configurá-lo no Adobe Experience Platform.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
