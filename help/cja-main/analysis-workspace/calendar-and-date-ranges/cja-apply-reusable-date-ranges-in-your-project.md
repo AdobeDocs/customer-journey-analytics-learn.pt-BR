@@ -29,4 +29,4 @@ ht-degree: 0%
 
 O uso de datas e intervalos de datas personalizados em seu produto pode ajudá-lo a filtrar apenas as informações que contam a história de seus dados. Neste vídeo, exploramos alguns lugares onde é possível usar intervalos de datas no projeto do Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497177/?captions=por_br&learn=on&enablevpops)
