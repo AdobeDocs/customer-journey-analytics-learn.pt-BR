@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 414e52d4db7057992525e7d68e5b79d3091f9875
+source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 79%
+source-wordcount: '783'
+ht-degree: 78%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 79%
   + Calendário e intervalos de datas {#calendar-and-date-ranges}
     + [Usar calendários e datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + [Aplicar intervalos de datas reutilizáveis no projeto](analysis-workspace/calendar-and-date-ranges/cja-apply-reusable-date-ranges-in-your-project.md)
+    + [Usar intervalos de datas e comparações](analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons.md)
   + Anotações {#annotations}
     + [Criar uma anotação](analysis-workspace/annotations/create-an-annotation.md)
   + Preparar e compartilhar {#curate-and-share}
