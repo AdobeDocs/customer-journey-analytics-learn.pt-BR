@@ -28,4 +28,4 @@ ht-degree: 71%
 
 Saiba mais sobre as configurações nas tabelas de forma livre no Analysis Workspace e como elas afetam os dados que entram nessas tabelas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497648/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497654/?captions=por_br&learn=on&enablevpops)
