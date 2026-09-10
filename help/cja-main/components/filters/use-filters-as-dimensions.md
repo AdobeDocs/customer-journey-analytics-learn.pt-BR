@@ -26,19 +26,15 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 86fe0ba98a4aaaab0874b0db2c163bf493f4d3f7
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 8%
+source-wordcount: 63
+ht-degree: 9%
 
 ---
 
 # Usar [!DNL segments] como dimensões em projetos do Analysis Workspace
 
-Saiba como comparar e visualizar segmentos quando usados como dimensões em projetos do Analysis Workspace. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
-
->[!NOTE]
->
-> &quot;[!UICONTROL Filtros]&quot; foram renomeados como &quot;[!UICONTROL segmentos]&quot; na interface do Customer Journey Analytics.
+Saiba como comparar e visualizar segmentos quando usados como dimensões em projetos do Analysis Workspace. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449067/?captions=por_br&learn=on&quality=12)
