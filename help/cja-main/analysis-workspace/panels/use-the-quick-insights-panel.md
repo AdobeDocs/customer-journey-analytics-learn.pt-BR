@@ -55,4 +55,4 @@ Saiba como responder a perguntas comerciais de forma rápida e fácil usando o p
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505752/?captions=por_br&learn=on)

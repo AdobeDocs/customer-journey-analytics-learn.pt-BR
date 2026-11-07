@@ -45,6 +45,6 @@ Saiba como adicionar e configurar visualizações de [!UICONTROL linha] em proje
 >
 >A interface de usuário e os recursos do [!DNL Analysis Workspace] são semelhantes no [!DNL Adobe Analytics] e no [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507403/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre as visualizações de [!UICONTROL linha], visite a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=pt-BR){target="_blank"}.
