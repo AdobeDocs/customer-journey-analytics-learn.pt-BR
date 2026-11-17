@@ -13,11 +13,9 @@ product_v2:
     internal-label: Customer Journey Analytics
 source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
-source-wordcount: 52
+source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # Configuração de identidade no Customer Journey Analytics
 
 Explore os dois tipos de identificação no CJA (baseada em campo e em gráfico) e como eles permitem a análise omnicanal.
